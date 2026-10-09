@@ -1,0 +1,28 @@
+# Secretos
+.env
+*.env
+serviceAccountKey.json
+*-firebase-adminsdk-*.json
+google-services.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Spike
+spike/results/*.json
+spike/menus/*
+!spike/menus/.gitkeep
+
+# SO / editores
+.DS_Store
+.idea/
+.vscode/
