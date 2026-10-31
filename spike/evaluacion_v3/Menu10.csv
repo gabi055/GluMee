@@ -1,0 +1,48 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+CHILES RELLENOS,platillo,media,58,ok,s,n,El chile es capeado por lo que contiene fritura y carbohidrato refinado,El chile y ensalada aportan fibra; incluye arroz y frijoles.
+ENCHILADAS DE CARNE (4),platillo,media,48,ok,s,,,"Buena proteína, aunque contiene carbohidratos de cuatro tortillas."
+ENCHILADAS DE POLLO (4),platillo,media,52,ok,s,,,"Proteína magra de pollo, aunque aporta carbohidratos por las tortillas."
+ENCHILADAS DE POLLO CON MOLE - Mole poblano,platillo,media,42,ok,s,,,Se supone: mole poblano con azúcar añadida más carbohidratos de tortillas.
+QUESADILLAS (3) - con Chorizo,platillo,baja,38,ok,s,s,,Aporta carbohidratos de tortilla y embutido alto en grasas saturadas.
+ENCHILADAS DE POLLO CON MOLE - Mole verde,platillo,media,55,ok,s,,,Pollo magro y mole a base de semillas; moderar tortillas.
+ENCHILADAS DE POLLO CON MOLE - Pipián,platillo,media,54,ok,s,,,Buena fuente de proteína; controlar la porción de tortillas.
+PAPAS FRITAS,platillo,baja,15,ok,s,s,,Fritura con alto índice glucémico y carbohidratos refinados.
+ENCHILADAS SURTIDAS - frijoles,platillo,media,44,ok,s,,,"Aporte de fibra, pero combinación doble de carbohidratos con tortilla."
+TORTA AHOGADA,platillo,baja,35,ok,s,s,,Pan birote refinado alto en carbohidratos y carne de cerdo con grasa.
+ENCHILADAS SURTIDAS - picadillo,platillo,media,46,ok,s,,,"Aporta proteína, pero suma carbohidratos de las tortillas."
+ENCHILADAS SURTIDAS - queso con cebolla,platillo,media,43,ok,s,,,Aporta grasas y carbohidratos de tortilla con poca proteína magra.
+ENCHILADAS SURTIDAS - requesón,platillo,media,48,ok,s,,,"Requesón bajo en grasa, pero contiene tortillas y grasa de preparación."
+FRIJOLES CON TOTOPOS,platillo,media,45,ok,s,,,"Los frijoles tienen fibra, pero se supone que los totopos son fritos."
+GUACAMOLE CON TOTOPOS,platillo,media,55,ok,s,,,"Aguacate saludable, pero se supone que los totopos son frituras."
+PLATO COMBINADO,platillo,media,48,ok,s,,,"Buena proteína, pero suma carbohidratos de arroz, frijoles y mole."
+POLLO CON MOLE - Mole poblano,platillo,media,50,ok,s,s,,Se supone: el mole poblano contiene azúcar o chocolate añadido.
+POLLO CON MOLE - Mole verde,platillo,media,65,ok,s,,,Proteína magra y mole verde con semillas; moderar arroz y frijoles.
+MANITAS EN ESCABECHE (4),platillo,alta,75,ok,s,s,,Muy bajo en carbohidratos y acompañado típicamente de verduras encurtidas.
+TACOS SURTIDOS (4),platillo,baja,30,ok,s,,,"Se supone: tacos fritos dorados, altos en carbohidratos por papa y masa."
+SOPES SURTIDOS (4),platillo,baja,32,ok,s,,,Base gruesa de masa frita y rellenos con carbohidratos como papa.
+PLATÓN LA CHATA COMBINACIÓN PARA 4 PERSONAS,platillo,baja,28,ok,s,,,Combinación abundante con múltiples frituras y carbohidratos refinados.
+PLATILLO JALISCIENSE ESPECIALIDAD LA CHATA,platillo,baja,25,ok,s,s,,"Alto en frituras: pollo frito, flauta, papas fritas y antojitos."
+POLLO CON MOLE - Pipián,platillo,media,64,ok,s,,,Buena fuente de proteína y grasas de pepita; moderar guarniciones.
+POZOLE BLANCO,platillo,media,58,ok,s,,,Caldo con maíz pozolero; moderar cantidad de grano de maíz.
+POZOLE BLANCO CON DOBLE CARNE,platillo,media,65,ok,s,,,"Buena proteína que sacia, aunque aporta mayor grasa y maíz."
+POZOLE BLANCO MIXTO Pollo y Cerdo,platillo,media,68,ok,s,,,Buena combinación de proteínas; se recomienda limitar el grano de maíz.
+QUESADILLAS (3) - con Champiñones,platillo,media,55,ok,s,,,"Buena opción con verdura, aunque aporta carbohidratos de las tortillas."
+POLLO FRITO,platillo,baja,32,ok,s,,,Fritura en el pollo y papas fritas; alto índice glucémico.
+POLLO FRITO CON SOPES O ENCHILADAS - SOPES,platillo,baja,22,ok,s,,,"Exceso de frituras y carbohidratos refinados: papas, pollo frito y sopes."
+POLLO FRITO CON SOPES O ENCHILADAS - ENCHILADAS,platillo,baja,24,ok,s,,,Alto en frituras y carbohidratos refinados por papas y pollo frito.
+QUESADILLAS (3) con Guacamole,platillo,media,50,ok,s,,,"El guacamole aporta grasas saludables, pero contiene carbohidratos por las tortillas."
+POZOLE BLANCO CON POLLO,platillo,alta,72,ok,s,s,,"Proteína magra, verduras de guarnición; moderar la porción de maíz."
+QUESO FUNDIDO - con Champiñones,platillo,media,65,ok,s,,,Los champiñones aportan fibra y es bajo en carbohidratos refinados.
+QUESO FUNDIDO - con Chorizo,platillo,media,55,ok,s,,,"Se supone: bajo en carbohidratos, pero alto en grasas saturadas y sodio."
+FLAUTAS DE POLLO (4),platillo,baja,28,ok,s,,,Platillo frito acompañado además de papas fritas.
+FLAUTAS DE CARNE (4),platillo,baja,25,ok,s,,,Fritura doble por flautas y papas; carece de ensalada.
+QUESO FUNDIDO NATURAL,platillo,media,60,ok,s,s,,"Se supone: alto en grasas saturadas, pero muy bajo en carbohidratos."
+TORTA - De Lomo,platillo,media,42,ok,s,,,"Buena proteína, pero alta carga de carbohidratos refinados por el pan."
+ENCHILADAS SURTIDAS - papa,platillo,baja,30,ok,s,,,Alta carga glucémica al combinar papa y tortilla de maíz.
+TORTA - De Pata,platillo,media,40,ok,s,,,Aporta proteína pero contiene carbohidratos refinados por el pan.
+TORTA - De Pierna,platillo,media,42,ok,s,,,"Proteína adecuada, pero contiene carbohidratos refinados del pan."
+TORTA - De Pollo,platillo,media,45,ok,s,s,,"Proteína magra, pero contiene carbohidratos refinados del pan."
+TOSTADA - De Lomo,platillo,media,55,ok,s,,,"Buena fuente de proteína, pero se supone que la tostada es frita."
+TOSTADA - De Pata,platillo,media,52,ok,s,,,"Bajo en carbohidratos en la proteína, pero la base es tostada frita."
+TOSTADA - De Pierna,platillo,media,55,ok,s,,,"Buena proteína, pero se supone que la tostada es frita."
+TOSTADA - De Pollo,platillo,media,60,ok,s,,,"Proteína magra, aunque se supone que la tostada puede ser frita."

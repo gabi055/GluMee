@@ -19,6 +19,8 @@ web-build/
 
 # Spike
 spike/results/*.json
+spike/results_v2/*.json
+spike/results_v3/*.json
 spike/menus/*
 !spike/menus/.gitkeep
 

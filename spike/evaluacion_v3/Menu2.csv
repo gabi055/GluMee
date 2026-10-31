@@ -1,0 +1,55 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+31.8 Santo Tomás Cabernet Sauvignon,bebida,media,62,ok,s,,,"Vino tinto seco tradicional, mínimo en azúcares."
+7 Leguas Blanco (50 ml),bebida,media,60,ok,s,,,"Tequila blanco puro, libre de carbohidratos."
+7 Leguas Rep. (50 ml),bebida,media,60,ok,s,,,"Tequila reposado puro, sin carbohidratos."
+Absolut (50 ml),bebida,media,60,ok,s,,,"Vodka destilado puro, cero carbohidratos."
+Absolut Mandarina (50 ml),bebida,media,56,ok,s,s,,Vodka saborizado; aromatizado pero vigilar posibles endulzantes.
+Appleton Estate (50 ml),bebida,media,58,ok,s,,,Ron sin mezclar; vigilar acompañamientos azucarados.
+Bacardi Blanco (50 ml),bebida,media,60,ok,s,,,Ron blanco destilado sin azúcares; evitar mezcladores dulces.
+Bombay (50 ml),bebida,media,60,ok,s,n,Además el alcohol frena la oxidación de grasas,Ginebra seca sin carbohidratos.
+Buchanan's (50 ml),bebida,media,60,ok,s,,,Whisky destilado sin azúcares ni carbohidratos.
+Calabuig Tempranillo,bebida,media,62,ok,s,,,"Tinto seco español, sin azúcares añadidos."
+Casa Madero 3V,bebida,media,62,ok,s,,,Tinto seco sin azúcares añadidos; bajo en carbohidratos.
+Cascahuin Blanco (50 ml),bebida,media,60,ok,s,,,Destilado puro sin carbohidratos; el alcohol requiere moderación en diabetes.
+Chivas 12 (50 ml),bebida,media,60,ok,s,,,Whisky sin carbohidratos.
+De la Casa (Blanco),bebida,media,55,ok,s,,,Vino blanco de la casa; alcohol con bajo azúcar si es seco.
+De la Casa (Rosado),bebida,media,52,ok,s,,,Vino rosado de la casa; puede tener azúcares residuales variables.
+De la Casa (Tinto),bebida,media,60,ok,s,,,"Vino tinto seco, bajo en carbohidratos, consumir con moderación."
+Don Julio Blanco (50 ml),bebida,media,60,ok,s,,,Destilado sin azúcar; consumir solo o con agua mineral.
+Don Julio Rep. (50 ml),bebida,media,60,ok,s,,,Tequila reposado sin azúcares.
+Etiqueta Negra (50 ml),bebida,media,60,ok,s,,,Whisky puro sin carbohidratos añadidos.
+Etiqueta Roja (50 ml),bebida,media,60,ok,s,,,Whisky puro sin azúcar.
+Havana 7 (50 ml),bebida,media,58,ok,s,,,Ron añejo; puede tener trazas de azúcares residuales.
+Hennesy VSOP (50 ml),bebida,media,58,ok,s,,,Coñac puro sin azúcares directos añadidos.
+Herradura Antiguo (50 ml),bebida,media,60,ok,s,,,Tequila puro sin carbohidratos.
+Herradura Blanco (50 ml),bebida,media,60,ok,s,,,"Tequila blanco puro, sin azúcares añadidos."
+Herradura Plata (50 ml),bebida,media,60,ok,s,,,Destilado de agave sin azúcares.
+Herradura Rep. (50 ml),bebida,media,60,ok,s,,,Tequila reposado sin azúcar añadido.
+La cetto Chardonnay,bebida,media,58,ok,s,,,"Vino blanco seco, moderado impacto metabólico por contenido alcohólico."
+La Cetto Zinfandel,bebida,media,50,ok,s,,,Zinfandel rosado suele tener azúcar residual más elevado.
+La Madriguera Monastrell,bebida,media,62,ok,s,,,"Vino tinto seco, bajo carbohidrato."
+Lateral,bebida,media,62,ok,s,,,Vino tinto seco con bajo contenido de carbohidratos.
+Maestro Doble (50 ml),bebida,media,60,ok,s,,,Tequila puro sin aporte de carbohidratos.
+Martell VSOP (50 ml),bebida,media,58,ok,s,,,Coñac destilado; bajo en carbohidratos pero alcohol concentrado.
+Mezcal Unión (50 ml),bebida,media,60,ok,s,,,Destilado de agave sin carbohidratos.
+Ollitas Blanco (50 ml),bebida,media,60,ok,s,,,Destilado puro sin carbohidratos.
+Ollitas Rep. (50 ml),bebida,media,60,ok,s,,,Destilado sin carbohidratos ni azúcares.
+Oveja Negra Carmenere / Franc Cabernet,bebida,media,62,ok,s,,,"Vino tinto seco, compatible con conteo de carbohidratos."
+Oveja Negra Carmenere / Sauvignon / Syrah,bebida,media,62,ok,s,,,"Vino tinto seco, carbohidratos mínimos."
+Punto Final Malbec,bebida,media,62,ok,s,,,"Vino tinto seco, adecuado controlando el consumo de alcohol."
+Santo Tomás Tempranillo,bebida,media,62,ok,s,s,,"Vino tinto seco, muy bajo en azúcares residuales."
+Stolichnaya (50 ml),bebida,media,60,ok,s,,,Vodka puro sin azúcares.
+Tanqueray (50 ml),bebida,media,60,ok,s,,,Ginebra destilada sin azúcares; evitar tónica regular.
+Torres 10 (50 ml),bebida,media,55,ok,s,,,Brandy; puede contener pequeñas cantidades de azúcares de barrica.
+Tradicional (50 ml),bebida,media,60,ok,s,,,Tequila sin carbohidratos añadidos.
+Vistamar Brisa Carmenere / Sauvignon / Syrah,bebida,media,62,ok,s,,,"Mezcla de tinto seco, bajo en azúcares."
+Vistamar Brisa Chardonnay,bebida,media,58,ok,s,s,,Vino blanco seco; bajo carbohidrato pero el alcohol impacta la glucosa.
+Vistamar RVA Bordevalle Carmenere,bebida,media,55,ok,s,,,Vino rosado; puede contener ligeramente más azúcar residual que un tinto.
+Baileys (50 ml),bebida,baja,15,ok,s,,,Licor de crema con muy alto contenido de azúcar refinada.
+Licor 43 (50 ml),bebida,baja,10,ok,s,s,,Licor dulce con gran cantidad de azúcar añadida.
+Amareto (50 ml),bebida,baja,12,ok,s,s,,Licor dulce con alto aporte de carbohidratos refinados.
+Damiana (50 ml),bebida,baja,15,ok,s,,,Licor tradicional dulce elaborado con azúcares añadidos.
+Agavero (50 ml),bebida,baja,18,ok,s,n,metaboliza como azúcar libre,Licor de tequila endulzado con miel de agave.
+Campari (50 ml),bebida,baja,25,ok,s,,,Aperitivo amargo pero con alto contenido de azúcares.
+Anis Chinchon (50 ml),bebida,baja,20,ok,s,,,Licor que suele contener importante cantidad de azúcar.
+Kahula (50 ml),bebida,baja,10,ok,s,s,,Licor de café densamente endulzado con azúcar refinada.

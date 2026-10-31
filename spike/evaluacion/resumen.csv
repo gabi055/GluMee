@@ -1,0 +1,7 @@
+﻿menu,modelo,reales,detectados,correctos,inventados,faltantes,precision,cobertura
+Menu1,gemini-3.8-flash,136,117,117,0,19,100%,86%
+Menu14,gemini-3.8-flash,57,57,57,0,0,100%,100%
+Menu2,gemini-3.8-flash,54,54,54,0,0,100%,100%
+Menu6,gemini-3.6-flash,47,47,47,0,0,100%,100%
+Menu8,gemini-3.6-flash,24,24,24,0,0,100%,100%
+Menu9,gemini-3.8-flash,55,55,55,0,0,100%,100%

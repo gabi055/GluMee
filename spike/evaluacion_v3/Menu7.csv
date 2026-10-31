@@ -1,0 +1,15 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+SENCILLA,platillo,media,45,ok,s,s,,Se supone: incluye pan con carbohidratos refinados y salsas con azúcar.
+DOBLE,platillo,media,44,ok,s,,,Se supone: contiene pan blanco; aporta buena proteína pero mayor grasa.
+HAWAIANA,platillo,baja,28,ok,s,s,,"La piña aporta azúcares rápidos, sumado a los carbohidratos del pan."
+FLAMIN,platillo,baja,20,ok,s,s,,Contiene frituras ultraprocesadas ricas en carbohidratos refinados y sodio.
+SIRLOIN,platillo,media,48,ok,s,s,,"Buena porción de proteína magra, aunque se supone: incluye pan refinado."
+ESPECIAL,platillo,baja,32,ok,s,,,"Contiene embutidos altos en sodio y grasas saturadas, además del pan."
+CARNE POLLO,platillo,media,52,ok,s,s,,"La pechuga de pollo aporta proteína magra, aunque se supone: lleva pan blanco."
+JALAPEÑO CHEDDAR,platillo,media,40,ok,s,n,tomar en cuenta el pan,"Buena proteína y vegetales, pero alta en grasa por el tocino y queso."
+TEXANA,platillo,baja,22,ok,s,s,,Salsa BBQ alta en azúcar y aros de cebolla fritos con harina.
+NORTEÑA,platillo,media,47,ok,s,,,"Alta en proteína de bistec y sirloin, pero se supone: incluye pan."
+GRINGA,platillo,baja,36,ok,s,,,Se supone: la carne al pastor suele contener adobos dulces y grasa.
+CANIBAL,platillo,baja,29,ok,s,,,"Exceso de embutidos procesados y grasas saturadas, sumado al pan."
+TRIPITAS,platillo,baja,28,ok,s,s,,Se supone: las tripitas son fritas y muy altas en grasa saturada.
+SUPREMA,platillo,baja,33,ok,s,,,Se supone: aderezo y tocino aumentan calorías y grasas no recomendadas.

@@ -1,0 +1,59 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+Café americano,bebida,alta,95,ok,s,n,en algunos pacientes la cafeína pura en ayunas puede generar un pico de cortisol que altera la glucosa,"Café negro sin azúcar añadido, no eleva la glucosa."
+Agua de horchata,bebida,baja,15,ok,s,s,,Muy alta en azúcares refinados y almidón de arroz.
+Descafeinado,bebida,alta,95,ok,s,,,"Café sin azúcar ni carbohidratos, excelente opción."
+Café express,bebida,alta,95,ok,s,,,Café concentrado sin azúcar añadida ni carbohidratos.
+Café cortado,bebida,alta,85,ok,s,s,,Contiene poca leche; mínimo aporte de carbohidratos.
+Café con leche,bebida,media,65,ok,s,,,"La leche aporta lactosa, un azúcar natural."
+Café capuchino,bebida,media,65,ok,s,s,,Contiene leche con lactosa; verificar que no añadan azúcar.
+Bohemia Clara 355 ml,bebida,baja,30,ok,s,,,Bebida alcohólica con carbohidratos fermentables.
+Bohemia Obscura 355 ml,bebida,baja,28,ok,s,,,Cerveza con carbohidratos y alcohol que afectan la glucemia.
+Bohemia Weizen 355 ml,bebida,baja,28,ok,s,,,Cerveza de trigo alta en carbohidratos.
+Café de olla,bebida,baja,25,ok,s,,,Se supone: tradicionalmente elaborado con piloncillo o azúcar.
+Capuchino frapé,bebida,baja,25,ok,s,s,,Se supone: suele prepararse con jarabes o azúcares añadidos.
+Choco milk,bebida,baja,20,ok,s,,,Bebida chocolatada alta en azúcar añadida y lactosa.
+Chocolate caliente,bebida,baja,20,ok,s,,,Preparación alta en azúcares refinados.
+Corona 355 ml,bebida,baja,30,ok,s,,,Cerveza tradicional con carbohidratos y alcohol.
+Coors Ligth 355 ml,bebida,media,42,ok,s,,,"Cerveza ligera, menor contenido de carbohidratos que la regular."
+Tecate Light,bebida,media,42,ok,s,s,,"Opción ligera con menos carbohidratos, aunque contiene alcohol."
+Estrella 355 ml,bebida,baja,30,ok,s,,,Cerveza con carbohidratos fermentables y contenido alcohólico.
+Heineken 330 ml,bebida,baja,30,ok,s,,,"Aporta carbohidratos simples y alcohol, desaconsejado en diabetes."
+Jugos naturales - Lima,bebida,baja,30,ok,s,,,Líquido con azúcares simples de absorción rápida.
+Jugos naturales - Naranja,bebida,baja,20,ok,s,s,,Alto contenido de fructosa de absorción rápida sin fibra.
+Corona Ligth 355 ml,bebida,media,42,ok,s,,,Cerveza light con menor cantidad de carbohidratos.
+Jugos naturales - Toronja,bebida,baja,25,ok,s,,,Contiene azúcares libres que elevan la glucosa rápidamente.
+Jugos naturales - Zanahoria,bebida,baja,25,ok,s,,,Jugo concentrado con alto índice glucémico y sin fibra.
+Licuados - Plátano,bebida,baja,35,ok,s,,,El plátano maduro y la leche suman alta carga glucémica.
+Limonada - Agua natural,bebida,baja,30,ok,s,,,Se supone: usualmente preparada con jarabe o azúcar refinada.
+Limonada - Mineral,bebida,baja,30,ok,s,,,Se supone: preparada con azúcar añadido; pedir sin endulzar mejoraría.
+Malteada - Chocolate,bebida,baja,10,ok,s,,,Altísima en azúcar y calorías; desaconsejada en diabetes.
+Malteada - Fresa,bebida,baja,10,ok,s,,,"Muy alta en azúcares refinados, helado y grasas."
+Malteada - Vainilla,bebida,baja,10,ok,s,,,Cargada de azúcares simples y carbohidratos refinados.
+Michelada,bebida,baja,25,ok,s,,,Se supone: suele incluir salsas altas en sodio y carbohidratos.
+Modelo Especial 355 ml,bebida,baja,30,ok,s,,,Bebida alcohólica con carbohidratos simples.
+Naranjada - Agua natural,bebida,baja,25,ok,s,,,Aporta fructosa y frecuentemente azúcar simple añadida.
+Naranjada - Mineral,bebida,baja,25,ok,s,n,"Muchas naranjadas no llevan jugo natural, sino jarabes procesados sabor naranja.",Contiene fructosa de la fruta y comúnmente azúcar añadida.
+Jugos naturales - Tomate,bebida,media,60,ok,s,,,Menor cantidad de carbohidratos que los jugos de frutas.
+Jugo verde,bebida,media,45,ok,s,s,,"Contiene vegetales, pero la piña y toronja aportan fructosa líquida."
+Licuados - Fresa,bebida,media,40,ok,s,,,Lactosa y fruta; verificar que no agreguen azúcar refinada.
+Negra Modelo 355 ml,bebida,baja,28,ok,s,,,Cerveza oscura con mayor densidad de carbohidratos.
+Licuados - Papaya,bebida,media,40,ok,s,,,Fruta con leche; puede elevar la glucosa rápidamente.
+Preparado con agua - Fresa,bebida,media,45,ok,s,,,La fresa es baja en azúcar; confirmar que no añadan endulzante.
+Pacifico 355 ml,bebida,baja,30,ok,s,,,Aporta carbohidratos y alcohol que desestabilizan la glucemia.
+Preparado con agua - Papaya,bebida,media,40,ok,s,,,Aporta fructosa simple sin la fibra entera de la fruta.
+Preparado con agua - Melón,bebida,media,40,ok,s,,,El melón líquido se absorbe rápido; evitar azúcar añadido.
+Preparado con agua - Piña,bebida,baja,35,ok,s,,,La piña molida tiene índice glucémico alto.
+Refrescos 355 ml,bebida,baja,5,ok,s,,,Bebidas azucaradas con altísimo contenido de carbohidratos simples.
+Stella Artois (Belgium) 330 ml,bebida,baja,30,ok,s,,,Cerveza regular con carbohidratos derivados de cereales y alcohol.
+Victoria 355 ml,bebida,baja,30,ok,s,,,"Contiene carbohidratos y alcohol, poco recomendable."
+XX Ambar 325 ml,bebida,baja,30,ok,s,,,Aporte de carbohidratos y alcohol no recomendado.
+Leche,bebida,media,60,ok,s,,,"Aporta proteínas pero también lactosa, que impacta la glucosa."
+Té caliente - Manzanilla,bebida,alta,100,ok,s,,,"Infusión sin calorías, azúcares ni carbohidratos."
+Té caliente - Limón,bebida,alta,100,ok,s,,,Infusión natural sin carbohidratos ni azúcares.
+Té caliente - Yerbabuena,bebida,alta,100,ok,s,,,Bebida libre de calorías y carbohidratos.
+Té caliente - Negro,bebida,alta,100,ok,s,,,"Té natural sin azúcar, totalmente compatible."
+Té caliente - Verde,bebida,alta,100,ok,s,s,,Excelente opción antioxidante sin azúcares ni carbohidratos.
+Té caliente - Canela,bebida,alta,100,ok,s,s,,Infusión aromática sin calorías ni carbohidratos.
+Té helado,bebida,media,50,ok,s,s,,Se supone: suele servirse endulzado; pedir sin azúcar sería excelente.
+Agua embotellada 600 ml,bebida,alta,100,ok,s,,,"Agua natural sin carbohidratos ni azúcares, opción ideal."
+XX Lager 325 ml,bebida,baja,30,ok,s,,,Contiene alcohol y carbohidratos que elevan la glucosa.

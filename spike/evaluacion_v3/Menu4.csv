@@ -1,0 +1,50 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+Americano,bebida,alta,98,ok,s,,,Café solo sin calorías ni carbohidratos añadidos.
+Latte,bebida,media,65,ok,s,s,,"Contiene lactosa de la leche, sin azúcares añadidos si se pide natural."
+Babyccino,bebida,media,60,ok,s,,,Leche espumada que aporta carbohidratos naturales de la lactosa.
+Machiato,bebida,alta,85,ok,s,s,,Café espresso con poca cantidad de leche.
+Mocha,bebida,baja,25,ok,s,,,Se supone: contiene jarabe o chocolate con alto contenido de azúcar refinada.
+Dirty Chai,bebida,baja,25,ok,s,s,,Se supone: las mezclas de chai contienen azúcares añadidos concentrados.
+Chai,bebida,baja,25,ok,s,,,Se supone: los concentrados chai suelen contener alta cantidad de azúcar.
+Choco Café,bebida,baja,25,ok,s,,,Se supone: bebida endulzada con chocolate alto en carbohidratos simples.
+Caramel Machiatto,bebida,baja,20,ok,s,,,Contiene jarabe de caramelo rico en azúcares refinados.
+Capuchino,bebida,media,65,ok,s,,,"Contiene los carbohidratos propios de la leche, sin azúcares añadidos por defecto."
+Espresso,bebida,alta,100,ok,s,,,Café puro sin carbohidratos ni azúcares.
+Espresso Doble,bebida,alta,100,ok,s,,,Café puro sin azúcares ni carbohidratos.
+Flat White,bebida,media,68,ok,s,,,"Café con leche sin azúcar añadida, contiene carbohidratos naturales de lactosa."
+Cold Brew,bebida,alta,98,ok,s,s,,Extracción de café frío sin azúcar añadida ni carbohidratos.
+V60 300 ml,bebida,alta,100,ok,s,,,Café filtrado sin azúcar ni carbohidratos.
+Chemex 500 ml,bebida,alta,100,ok,s,,,Café de método filtrado sin azúcar añadida.
+Chocomilk,bebida,baja,20,ok,s,,,Se supone: preparado con polvo de chocolate rico en azúcares refinados.
+Chocolate Artesanal,bebida,baja,25,ok,s,,,Se supone: base de chocolate tradicional endulzada con azúcar.
+Matcha,bebida,media,60,ok,s,s,,Se supone: contiene leche y puede incluir azúcar en el polvo base.
+Dirty Matcha,bebida,media,60,ok,s,,,Matcha con espresso; contiene carbohidratos de la leche y posible endulzante.
+Fresa Matcha,bebida,baja,30,ok,s,s,,Se supone: contiene jarabe o puré de fresa alto en azúcares simples.
+Mango Matcha,bebida,baja,28,ok,s,,,Se supone: preparado con puré de mango alto en fructosa o azúcar.
+Coco Matcha,bebida,baja,32,ok,s,,,Se supone: base de coco endulzada que eleva los carbohidratos simples.
+Mimosa,bebida,baja,20,ok,s,,,Mezcla de alcohol y jugo de naranja rico en azúcares simples.
+Carajillo,bebida,baja,15,ok,s,,,Contiene licor dulce con muy alto contenido de azúcar refinada.
+Aperol Spritz,bebida,baja,20,ok,s,,,Coctel alcohólico elaborado con licor amargo alto en azúcares.
+Roibos Vainilla,bebida,alta,95,ok,s,s,,Infusión de hierbas sin azúcares ni carbohidratos.
+Ginger Maracuya,bebida,alta,92,ok,s,,,Infusión de té/hierbas sin azúcar añadida por defecto.
+Chamomile Citron,bebida,alta,95,ok,s,s,,Infusión de manzanilla sin calorías ni azúcar añadida.
+Jugo de Naranja,bebida,baja,30,ok,s,,,Jugo de fruta alto en fructosa de rápida absorción sin fibra.
+Jugo de Toronja,bebida,baja,32,ok,s,,,Jugo natural con carbohidratos simples y rápida absorción.
+Jugo Verde,bebida,media,45,ok,s,s,,Aporta vegetales pero carece de fibra íntegra; puede contener fruta.
+Jugo de Zanahoria,bebida,baja,32,ok,s,s,,Jugo con alto índice glucémico y azúcares concentrados sin fibra.
+Pocari Sweat,bebida,baja,15,ok,s,s,,Bebida isotónica formulada con azúcares añadidos de rápida absorción.
+Agua Mineral,bebida,alta,100,ok,s,,,"Bebida libre de calorías, azúcar y carbohidratos."
+Refresco,bebida,baja,10,ok,s,,,Se supone: contiene alta concentración de azúcares refinados.
+Agua Embotellada,bebida,alta,100,ok,s,,,Agua natural sin azúcar ni calorías.
+Félix - Frambuesa,bebida,baja,22,ok,s,,,Soda artesanal de fruta con contenido de azúcar añadida.
+Félix - Manzana,bebida,baja,22,ok,s,,,Soda artesanal frutal con azúcares simples.
+Félix - Mandarina,bebida,baja,22,ok,s,,,Bebida carbonatada de fruta con azúcar añadida.
+Félix - Maracuyá,bebida,baja,22,ok,s,,,Bebida de maracuyá carbonatada endulzada.
+Shake Rayo - Proteína de chocolate,bebida,media,58,ok,s,s,,Aporta proteína pero contiene lactosa y posibles azúcares del polvo proteico.
+Shake Rayo - Vainilla,bebida,media,58,ok,s,,,Aporta proteína pero suma carbohidratos de leche y endulzantes del batido.
+Soda de Berries,bebida,baja,20,ok,s,,,Soda saborizada con jarabe dulce alto en carbohidratos simples.
+Limonada de Fresa,bebida,baja,25,ok,s,,,Se supone: endulzada con jarabe o azúcar refinada.
+Bebida de Maracuyá,bebida,baja,25,ok,s,,,Se supone: contiene jarabe o azúcar añadida para endulzar el maracuyá.
+Hidratante de Jengibre,bebida,baja,30,ok,s,,,Se supone: suele elaborarse con jarabe de azúcar o endulzante calórico.
+Naranja Espresso,bebida,baja,35,ok,s,,,Contiene jugo de naranja rico en carbohidratos simples sin fibra.
+Cold Brew Tonic,bebida,baja,25,ok,s,,,El agua tónica estándar contiene altas cantidades de azúcar refinada.
