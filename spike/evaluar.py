@@ -89,7 +89,7 @@ def generar(args):
 
 
 def pct(a, b):
-    return f"{100 * a / b:.0f}%" if b else "n/a"
+    return f"{100 * a / b:.1f}%" if b else "n/a"
 
 
 def calcular(args):
@@ -149,7 +149,7 @@ def calcular(args):
     det_t, real_t = tot["ok"] + tot["x"], tot["ok"] + tot["falto"]
     print("\n=== GLOBAL ===")
     print(f"Menús evaluados: {len(filas_res)}")
-    print(f"Promedio por menú  -> Precisión {100 * sum(ps) / len(ps):.0f}% | Cobertura {100 * sum(rs) / len(rs):.0f}%")
+    print(f"Promedio por menú  -> Precisión {100 * sum(ps) / len(ps):.1f}% | Cobertura {100 * sum(rs) / len(rs):.1f}%")
     print(f"Suma de platillos  -> Precisión {pct(tot['ok'], det_t)} | Cobertura {pct(tot['ok'], real_t)}  (OK {tot['ok']}, X {tot['x']}, faltantes {tot['falto']})")
     print(f"Errores de lectura (nota 'errata'): {errata}")
     print(f"Tipo correcto (platillo/bebida/postre): {pct(tipo_s, tipo_s + tipo_n)} de {tipo_s + tipo_n} revisados")
