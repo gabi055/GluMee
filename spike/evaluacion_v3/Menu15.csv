@@ -1,0 +1,34 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+CAPUCCINO,bebida,alta,75,ok,s,,,Café con leche espumada sin azúcares añadidos por defecto.
+ESPRESSO,bebida,alta,95,ok,s,s,,Café puro sin azúcar añadida ni carbohidratos refinados.
+CAFÉ DE OLLA,bebida,baja,25,ok,s,,,Se supone: típicamente preparado con piloncillo o azúcar añadida.
+ESPRESSO AMERICANO,bebida,alta,95,ok,s,s,,Café negro sin azúcar ni carbohidratos añadidos.
+FLAT WHITE,bebida,alta,75,ok,s,s,,Café con leche; contiene lactosa pero sin azúcares refinados añadidos.
+FREDDO ESPRESSO,bebida,alta,95,ok,s,,,"Café espresso puro batido con hielo, sin carbohidratos."
+CHAI,bebida,baja,30,ok,s,,,Se supone: concentrado o mezcla con alto contenido de azúcar.
+CHILAQUILES VERDES,platillo,baja,35,ok,s,,,Se supone: totopos fritos en aceite; alto en carbohidratos.
+CHOCOLATE,bebida,baja,20,ok,s,,,Se supone: bebida a base de chocolate dulce y leche.
+COCO LEMONADE,bebida,baja,25,ok,s,,,Contiene cordial azucarado y azúcares naturales del agua de coco.
+COCO THAI,bebida,baja,30,ok,s,,,Se supone: el té tailandés incluye jarabes o azúcares concentrados.
+COFFE LEMONADE,bebida,baja,20,ok,s,,,Contiene cordial azucarado y agua tónica alta en azúcar.
+COLDBREW TAMARINDO,bebida,baja,30,ok,s,,,Se supone: preparación con pulpa o jarabe de tamarindo endulzado.
+LATTE,bebida,alta,70,ok,s,n,"Es la bebida que más leche utiliza, pudiendo subir la glucosa en personas delicadas","Café con leche, aporta carbohidratos lácteos moderados sin azúcar extra."
+COLDBREW TONIC,bebida,baja,35,ok,s,s,,Se supone: el agua tónica suele contener alto contenido de azúcar.
+DIRTY CHAI,bebida,baja,30,ok,s,,,Se supone: base de chai azucarada combinada con espresso.
+GALLETA DE CHOCOLATE,postre,baja,10,ok,s,,,"Galleta dulce con harina refinada, grasa y chocolate azucarado."
+GALLETA DE ZANAHORIA,postre,baja,15,ok,s,,,Galleta dulce a base de harina refinada y azúcares.
+HONEY ICED LATTE,bebida,baja,20,ok,s,s,,Contiene miel (azúcar libre) y leche de avena con carbohidratos.
+JENBIGRE CON MIEL Y LIMÓN,bebida,baja,25,ok,s,,,"Contiene miel de abeja, que aporta azúcares de rápida absorción."
+MATCHA LATTE,bebida,media,65,ok,s,s,,Té matcha con leche; verificar que no use base endulzada.
+MATCHA LIMÓN,bebida,baja,20,ok,s,,,Contiene tónica y cordial de limón altos en azúcares simples.
+MATCHA COCO,bebida,media,55,ok,s,s,,Se supone: la espuma de coco podría tener azúcares añadidos.
+MOCHA LATTE,bebida,baja,25,ok,s,s,,Se supone: contiene jarabe de chocolate alto en azúcar añadida.
+OLLA LATTE,bebida,baja,25,ok,s,,,Se supone: infusión tradicional endulzada con piloncillo y leche.
+PAN DE ELOTE,postre,baja,15,ok,s,,,Pan dulce elaborado con carbohidratos refinados y azúcar.
+REBANADA PANQUÉ DE NATA,postre,baja,15,ok,s,,,Panqué dulce con harina refinada y azúcar.
+ROL DE CANELA,postre,baja,10,ok,s,s,,Panadería dulce con alta cantidad de harina refinada y azúcar.
+SCONE DE BLUEBERRY,postre,baja,15,ok,s,,,Panecillo horneado con harina blanca y azúcares.
+SWEET THAI,bebida,baja,15,ok,s,,,Bebida explícitamente dulce con jarabe de vainilla y azúcares añadidos.
+TARTA VASCA,postre,baja,20,ok,s,,,Postre lácteo con azúcares refinados añadidos.
+CHILAQUILES TAPATÍOS,platillo,media,40,ok,s,s,,Aporta proteína pero los totopos suelen ser frituras con carbohidratos.
+CHILAQUILES FLOR DE CALABAZA,platillo,media,40,ok,s,s,,"Incluye verdura, pero la base son totopos fritos con chistorra grasa."

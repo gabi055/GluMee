@@ -1,0 +1,25 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+Crujipollo,platillo,baja,30,ok,s,s,,Se supone: pollo empanizado y frito servido en pan con carbohidratos refinados.
+A la plancha,platillo,media,55,ok,s,s,,"Proteína magra a la plancha, aunque contiene carbohidratos refinados por el pan."
+Boneless - Mango Habanero,platillo,baja,15,ok,s,s,,Se supone: pollo empanizado frito con papas fritas y salsa alta en azúcar.
+Boneless - Tamarindo Habanero,platillo,baja,15,ok,s,,,"Se supone: empanizado, frito, con papas y salsa dulce con azúcar añadida."
+Boneless - Louisiana,platillo,baja,25,ok,s,,,Se supone: empanizado frito con papas fritas; salsa picante con menos azúcar.
+Boneless - Buffalo Flamin,platillo,baja,25,ok,s,,,Se supone: pollo empanizado frito con papas; alto en carbohidratos y grasas.
+Boneless - Buffalo,platillo,baja,25,ok,s,,,Se supone: pollo empanizado frito acompañado de papas fritas.
+Boneless - BBQ Hot,platillo,baja,15,ok,s,,,Se supone: empanizado frito con papas y salsa BBQ con azúcares añadidos.
+Boneless - BBQ Honey,platillo,baja,10,ok,s,s,,"Se supone: pollo empanizado frito, papas fritas y salsa con miel y azúcar."
+Boneless - Pimienta Limón,platillo,baja,28,ok,s,,,"Se supone: empanizado frito con papas, sazonador seco sin azúcares añadidos."
+Boneless - Honey Mustard,platillo,baja,15,ok,s,,,Se supone: empanizado frito con papas y salsa que contiene miel/azúcar.
+Boneless - Cheddar,platillo,baja,20,ok,s,,,Se supone: empanizado frito con papas fritas y queso alto en grasas.
+Boneless - Naturales,platillo,baja,28,ok,s,s,,Se supone: pollo empanizado y frito acompañado de papas fritas.
+Alitas - Mango Habanero,platillo,baja,25,ok,s,,,Se supone: fritura con papas fritas y salsa dulce alta en azúcares.
+Alitas - Tamarindo Habanero,platillo,baja,25,ok,s,,,Se supone: fritas y con papas fritas; salsa con azúcar añadida.
+Alitas - Louisiana,platillo,media,40,ok,s,,,"Proteína sin empanizar, salsa sin azúcar; se supone: fritas y con papas."
+Alitas - Buffalo Flamin,platillo,media,40,ok,s,,,Proteína sin capeo; se supone: fritura y papas fritas altas en carbohidratos.
+Alitas - Buffalo,platillo,media,40,ok,s,s,,Salsa baja en azúcar; se supone: fritas y guarnición de papas fritas.
+Alitas - BBQ Hot,platillo,baja,25,ok,s,,,Salsa BBQ con azúcar añadida; se supone: fritas y acompañadas de papas.
+Alitas - BBQ Honey,platillo,baja,20,ok,s,,,Salsa con miel y azúcar; se supone: fritas y con papas fritas.
+Alitas - Pimienta Limon,platillo,media,42,ok,s,s,,Sazonador sin azúcar; se supone: fritas y acompañadas con papas fritas.
+Alitas - Honey Mustard,platillo,baja,25,ok,s,,,Salsa con miel/azúcar; se supone: fritas y acompañadas de papas fritas.
+Alitas - Cheddar,platillo,baja,35,ok,s,,,Alta grasa saturada y papas fritas; se supone: fritas.
+Alitas - Naturales,platillo,media,42,ok,s,s,,Sin salsas azucaradas; se supone: fritas y acompañadas con papas fritas.

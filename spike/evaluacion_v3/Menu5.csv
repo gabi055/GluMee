@@ -1,0 +1,18 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+CHILAQUILES RAYO (ROJOS),platillo,baja,25,ok,s,s,,"Se supone: totopos fritos de maíz, altos en carbohidratos refinados y grasas."
+CHILAQUILES CREMA DE ELOTE,platillo,baja,20,ok,s,s,,Se supone: totopos fritos; la crema de elote aporta carbohidratos adicionales.
+CHILAQUILES DE CACAHUATE,platillo,baja,25,ok,s,n,la salsa de cacahuate es alta en calorías y grasas,"Se supone: totopos fritos, altos en carbohidratos de rápida absorción."
+HUEVOS SHAKSHUKA,platillo,alta,95,ok,s,s,,"Excelente combinación de proteína magra y vegetales, prácticamente sin carbohidratos refinados."
+HUEVOS TURCOS,platillo,alta,92,ok,s,s,,Proteína y grasas saludables con mínimo contenido de carbohidratos.
+ROAST BEEF BAGUETTE,platillo,baja,35,ok,s,s,,"Pan baguette refinado, cebolla caramelizada con azúcares y guarnición de chips fritas."
+GRILLED CHEESE SANDWICH,platillo,media,45,ok,s,s,,"Pan artesanal alto en carbohidratos refinados, aunque incluye porción de ensalada."
+OMELETTE ABIERTO CABREADO,platillo,alta,90,ok,s,,,"Buena fuente de proteína y espinacas, muy bajo en carbohidratos."
+ENSALADA BETABEL Y FETA,platillo,media,65,ok,s,s,,"Base vegetal favorable, pero el betabel y las pepitas caramelizadas contienen azúcares."
+RAYIN BOLLIN,platillo,media,42,ok,s,,,El pan brioche aporta carbohidratos refinados y contiene grasas saturadas por tocino.
+FULL BREAKFAST - huevo revuelto,platillo,alta,78,ok,s,,,"Rico en proteína, aguacate y champiñones; contiene una porción moderada de pan."
+FULL BREAKFAST - pochado,platillo,alta,80,ok,s,s,,Huevos pochados sin grasa añadida con aguacate y verduras; incluye pan moderado.
+FULL BREAKFAST - estrellado,platillo,alta,78,ok,s,,,Proteína con aguacate y champiñones; moderar la rebanada de pan y tocino.
+HONGOS,platillo,media,58,ok,s,,,"Se supone: servido sobre pan tostado refinado, aunque los hongos aportan fibra."
+AGUACATE,platillo,media,65,ok,s,s,,"Se supone: base de pan tostado, compensada por huevo, panela y aguacate."
+POCHADOS BECHAMEL,platillo,media,50,ok,s,s,,Se supone: base de pan tostado y salsa bechamel elaborada con harina refinada.
+TOSTA DE SALMÓN,platillo,alta,74,ok,s,s,,Proteína magra con omega-3 y masa madre de menor impacto glucémico que harinas refinadas.

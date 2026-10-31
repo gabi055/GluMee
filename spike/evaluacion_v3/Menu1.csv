@@ -1,0 +1,152 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+Agua Embotellada,bebida,alta,100,ok,s,,,Hidratación ideal sin calorías ni azúcares.
+Arrachera con chilaquiles y huevo,platillo,media,55,ok,s,,,"Buena proteína de arrachera y huevo, pero contiene fritura."
+Avena - agua,platillo,media,64,ok,s,,,"Avena con agua reduce carbohidratos, moderar fruta agregada."
+Avena - Leche,platillo,media,58,ok,s,,,"Fibra soluble, pero carbohidratos sumados de fruta y leche."
+Bisquets - cajeta,postre,baja,10,ok,s,,,Alto en azúcar refinada por la cajeta y harina.
+Bisquets - Mermelada,postre,baja,10,ok,s,,,Alto en carbohidratos refinados y azúcar por mermelada.
+Bisquets - nata,postre,baja,20,ok,s,,,Carbohidratos refinados y grasa saturada.
+Café americano,bebida,alta,100,ok,s,,,"Sin azúcar ni carbohidratos, excelente bebida."
+Café americano de maquina,bebida,alta,100,ok,s,,,Sin azúcar añadida ni carbohidratos.
+Café de olla,bebida,baja,25,ok,s,s,,El café de olla se prepara tradicionalmente con piloncillo.
+Café descafeinado,bebida,alta,100,ok,s,,,Sin carbohidratos ni azúcares añadidos.
+Café lechero,bebida,media,55,ok,s,,,Mayor proporción de leche con lactosa natural.
+Capuccino,bebida,media,65,ok,s,,,Contiene lactosa de leche; pedir sin endulzantes añadidos.
+Cerveza - Corona,bebida,media,40,ok,s,,,Aporta alcohol y carbohidratos fermentables de rápida asimilación.
+Cerveza - Corona light,bebida,media,48,ok,s,,,"Reducida en carbohidratos, aunque contiene alcohol."
+Cerveza - Modelo Especial,bebida,media,40,ok,s,,errata,Contiene alcohol y carbohidratos propios del grano cervecero.
+Cerveza - Victoria,,,,falto,,,arrastrado: verifica que siga sin detectarse,
+Chicharrón en salsa,platillo,media,45,ok,s,,,Bajo en carbohidratos pero muy alto en grasas saturadas.
+Chilaquiles - Chipotle,platillo,media,42,ok,s,,,Se supone: totopos fritos con salsa picante.
+Chilaquiles - divorciados,platillo,media,42,ok,s,,,Se supone: totopos fritos en aceite.
+Chilaquiles - poblanos,platillo,media,42,ok,s,,,Se supone: totopos fritos; salsa poblana.
+Chilaquiles - Rojos,platillo,media,42,ok,s,s,,Se supone: totopos fritos en aceite con alto carbohidrato.
+Chilaquiles - salsa Jalisco,platillo,media,42,ok,s,,,Se supone: totopos fritos en aceite con alto carbohidrato.
+Chilaquiles - trivorciados,platillo,media,42,ok,s,,,Se supone: totopos fritos en aceite.
+Chilaquiles - verdes,platillo,media,42,ok,s,,,Se supone: totopos fritos en aceite con alto carbohidrato.
+Chilaquiles Colima,platillo,media,45,ok,s,,,Huevo suma proteína pero contiene totopos fritos.
+Chilaquiles de carne en su jugo,platillo,media,48,ok,s,,,Aporta proteína de carne pero mantiene totopos fritos.
+Chocolate caliente,bebida,baja,25,ok,s,,,Tradicionalmente preparado con chocolate con alto contenido en azúcar.
+Chocomilk,bebida,baja,20,ok,s,,,Bebida láctea con polvo de chocolate fuertemente azucarado.
+Claras revueltas,platillo,alta,95,ok,s,,,Proteína pura y magra sin carbohidratos.
+Conchitas - Nata,postre,baja,15,ok,s,,,Pan dulce refinado con alto contenido calórico y grasas.
+Conchitas - nutella,postre,baja,10,ok,s,,,Muy alto contenido de azúcar refinada y harina.
+Crepas - Cajeta,postre,baja,10,ok,s,,,Elevada carga glucémica por cajeta y helado.
+Crepas - Jardín Cafeto,platillo,media,60,ok,s,,,Proteína magra de pollo; moderar por harina de crepa.
+Crepas - Nutella,postre,baja,10,ok,s,,,Muy alta en azúcar añadida por Nutella y helado.
+Crepas - Parisina,platillo,media,55,ok,s,,,Aporte proteico pero masa a base de harina refinada.
+Crepas - Poblana,platillo,media,55,ok,s,,,"Verduras presentes, masa fina de harina refinada."
+Enchiladas - Naturales,platillo,media,50,ok,s,,,"Se supone: tortillas pasadas por aceite, carece de proteína magra."
+Enchiladas - panela,platillo,media,60,ok,s,,,"Queso magro, aunque puede contener tortilla frita."
+Enchiladas - pollo,platillo,media,62,ok,s,s,,"Buena proteína de pollo, pero tortillas posiblemente fritas."
+Enchiladas en tortilla de nopal - panela,platillo,alta,92,ok,s,,,Tortilla de nopal baja en carbohidratos y queso magro.
+Enchiladas en tortilla de nopal - pollo,platillo,alta,95,ok,s,s,,Excelente opción: tortilla de nopal muy baja en carbohidratos.
+Enfrijoladas - panela,platillo,media,63,ok,s,,,Buena fibra de frijol y queso bajo en grasa.
+Enfrijoladas - pollo,platillo,media,65,ok,s,,,Frijoles aportan fibra y pollo proteína; limitar porción de tortillas.
+Enfrijoladas de chicharrón,platillo,media,48,ok,s,,,Alto contenido de grasa saturada por el chicharrón.
+Enmoladas - Naturales,platillo,baja,38,ok,s,s,,El mole suele prepararse con azúcares añadidos y carbohidratos.
+Enmoladas - panela,platillo,media,45,ok,s,,,Aporta proteína pero el mole contiene azúcares añadidos.
+Enmoladas - pollo,platillo,media,48,ok,s,s,,Proteína magra pero salsa de mole típicamente azucarada.
+Espresso,bebida,alta,100,ok,s,,,Café concentrado puro sin azúcar.
+Espresso cortado,bebida,alta,90,ok,s,,,Mínima cantidad de leche y sin azúcar.
+Frizana - clementina,bebida,baja,15,ok,s,,errata,Frappé frutal muy alto en azúcar simple.
+Frizana - damasco,bebida,baja,15,x,s,,,Bebida dulce frappé con azúcares añadidos.
+Frizana - Frutos del bosque,bebida,baja,15,ok,s,,,Bebida frappé con alta concentración de azúcares/jarabes.
+Frizana - moras silvestres,bebida,baja,15,ok,s,,,Bebida frappé endulzada con jarabes concentrados.
+Hot cakes granja,platillo,baja,30,ok,s,,,"Contiene proteína, pero la base es harina refinada."
+Hot cakes Jardín Cafeto,platillo,baja,22,ok,s,,,Harina refinada y azúcares concentrados por las pasas.
+Hot cakes naturales,platillo,baja,20,ok,s,,,Harina refinada que eleva rápidamente la glucosa.
+Huevos - a la mexicana,platillo,alta,88,ok,s,s,,"Excelente proteína con verduras frescas (jitomate, cebolla, chile)."
+Huevos - albañil,platillo,alta,80,ok,s,,,Buena proteína en salsa sin harinas refinadas.
+Huevos - divorciados,platillo,alta,75,ok,s,,,Proteína magra y salsas tradicionales.
+Huevos - Estrellados,platillo,alta,80,ok,s,,,Excelente proteína sin carbohidratos; moderar aceite al cocinar.
+Huevos - Rancheros,platillo,alta,72,ok,s,,,"Buena proteína y salsa natural, tortilla base moderada."
+Huevos - Revueltos,platillo,alta,82,ok,s,,,"Excelente proteína, ideal si se eligen vegetales."
+Huevos con machaca,platillo,alta,85,ok,s,,,Excelente aporte proteico y casi nulo en carbohidratos.
+Huevos Jardín Cafeto,platillo,alta,82,ok,s,,,Proteína magra combinada con huevo sin tortilla frita.
+Huevos Tarascos,platillo,media,58,ok,s,,,"Proteína y fibra de frijol, pero base de tortilla frita."
+Jugos Naturales - Betabel y Naranja,,,,falto,,,arrastrado: verifica que siga sin detectarse,
+Jugos naturales - lima,bebida,baja,30,ok,s,,,Zumo concentrado con fructosa sin fibra vegetal.
+Jugos naturales - mixto,bebida,baja,25,ok,s,,,Mezcla de zumos con alta carga de azúcares naturales.
+Jugos naturales - Naranja,bebida,baja,25,ok,s,,,"Jugo colado sin fibra, eleva bruscamente la glucemia."
+Jugos naturales - toronja,bebida,baja,30,ok,s,,,Zumo sin fibra que aporta fructosa de rápida absorción.
+Jugos naturales - verde,bebida,media,55,ok,s,,,Aporta vegetales pero suele incluir jugo de fruta base.
+Jugos naturales - zanahoria,bebida,baja,30,ok,s,,,Concentración de azúcares simples al extraer el zumo.
+Latte - Chai,bebida,baja,30,ok,s,,,Se supone: mezclas preparadas de chai con alto contenido de azúcar.
+Latte - matcha,bebida,media,50,ok,s,,,Se supone: polvos de matcha comercial que contienen azúcar añadida.
+Latte - taro,bebida,baja,25,ok,s,,,Los polvos de taro suelen estar endulzados intensamente.
+Licuados - Base leche de almendra,bebida,media,55,ok,s,,,Base más baja en carbohidratos; moderar frutas añadidas.
+Licuados - Base leche de avena,bebida,media,42,ok,s,s,,La leche de avena contiene mayor cantidad de carbohidratos.
+Licuados - Base leche de coco,bebida,media,50,ok,s,,,Menor carbohidrato pero aporte de grasa; moderar fruta.
+Licuados - Base leche de vaca,bebida,media,45,ok,s,,,Lactosa y frutas seleccionadas pueden sumar bastantes carbohidratos.
+Lonche de pancita,platillo,media,40,ok,s,,,Pan blanco refinado y corte graso.
+Malteada - chocolate,bebida,baja,8,ok,s,,,Extremadamente azucarada por jarabes y base de helado.
+Malteada - mazapán,bebida,baja,5,ok,s,,,Muy alta en azúcar añadida por helado y mazapán.
+Malteada - Oreo,bebida,baja,5,ok,s,,,"Peligrosamente alta en azúcar refinada, galletas y helado."
+Malteada - vainilla,bebida,baja,8,ok,s,,,Concentrado de azúcares y grasas del helado.
+Migas norteñas,platillo,media,60,ok,s,,,Se supone: tortilla frita mezclada con el huevo.
+Moka,bebida,baja,25,ok,s,,,Elaborado con jarabe de chocolate dulce y leche.
+Molletes dulces - Celaya,postre,baja,15,ok,s,,,Cajeta muy rica en azúcares sobre carbohidratos refinados.
+Molletes dulces - De la casa,postre,baja,18,ok,s,,,Nata con azúcar añadida sobre pan blanco.
+Molletes dulces - Delicias,postre,baja,20,ok,s,,,Contiene azúcar añadida y pan blanco refinado.
+Molletes dulces - Fresas,postre,baja,15,ok,s,,,Alto contenido de azúcar simple por mermelada y pan.
+Molletes dulces - Morelianos,postre,baja,15,ok,s,,,El ate de membrillo es prácticamente azúcar pura.
+Molletes dulces - Tradicionales,postre,baja,15,ok,s,,,Pan refinado cubierto directamente con azúcar.
+Molletes Salados - Alteños,platillo,media,42,ok,s,,,Pan blanco refinado y carne con alto contenido graso.
+Molletes Salados - Asturianos,platillo,media,54,ok,s,,,Proteína curada con base de pan blanco.
+Molletes Salados - Aztecas,platillo,media,55,ok,s,,,Buena fibra de huitlacoche en base de pan refinado.
+Molletes Salados - De chilaquiles,platillo,baja,30,ok,s,,,Doble carbohidrato refinado: pan blanco y totopos fritos.
+Molletes Salados - Jardín Cafeto,platillo,media,56,ok,s,,,Proteína magra de pollo sobre pan blanco refinado.
+Molletes Salados - Mexicanos,platillo,media,52,ok,s,,,"Base de pan blanco refinado, aunque con fibra de frijoles."
+Molletes Salados - Oaxaca,platillo,media,55,ok,s,,,Verduras benéficas pero sobre base de pan blanco.
+Molletes Salados - Poblanos,platillo,media,50,ok,s,,,Pan blanco refinado acompañado de verduras y elote.
+Molletes Salados - Tapalpa,platillo,media,40,ok,s,,,Pan blanco refinado con grasa láctea concentrada.
+Molletes Salados - Tapatíos,platillo,media,52,ok,s,,,Aporte de proteína animal sobre pan blanco refinado.
+Molletes Salados - Toluca,platillo,media,45,ok,s,,,Pan blanco refinado y grasa saturada de chorizo.
+Molletes Salados - Xochimilco,platillo,media,54,ok,s,,,Vegetales incluidos pero base de carbohidrato refinado.
+Omelette de claras - 2 ingredientes,platillo,alta,95,ok,s,,,Proteína magra ideal sin grasas saturadas ni carbohidratos.
+Omelette de claras - 3 ingredientes,platillo,alta,95,ok,s,,,Excelente perfil nutricional con claras y vegetales a elegir.
+Omelette especial,platillo,alta,90,ok,s,,,"Proteína de salmón de alta calidad, grasas saludables y ensalada."
+Omelettes - 2 ingredientes,platillo,alta,85,ok,s,,,"Gran base proteica, altamente compatible eligiendo verduras o pavo."
+Omelettes - 3 ingredientes,platillo,alta,85,ok,s,,,Excelente proteína personalizable con verduras y quesos magros.
+Orden de jamón,platillo,media,60,ok,s,,,"Proteína con bajo carbohidrato, moderar sodio en embutidos."
+Orden de salchicha,platillo,media,45,ok,s,,,Embutido procesado y alto en sodio y grasas.
+Orden de tocino,platillo,media,45,ok,s,,,Alto contenido de grasa saturada y sodio.
+Pan de elote,postre,baja,15,ok,s,s,,Contiene azúcares agregados y carbohidratos refinados.
+Pan dulce,postre,baja,15,ok,s,,,Alto en harinas refinadas y azúcares simples.
+Pan francés,platillo,baja,15,ok,s,,,Pan refinado comúnmente endulzado.
+Panela en salsa roja,platillo,alta,90,ok,s,,,"Proteína magra, salsa natural y nulos carbohidratos refinados."
+Panela en salsa verde,platillo,alta,90,ok,s,,,"Proteína magra, salsa natural y nulos carbohidratos refinados."
+Plato de fruta - queso cottage,platillo,media,65,ok,s,,,Queso cottage magro ayuda a amortiguar la glucosa.
+Plato de fruta - yogurt,platillo,media,52,ok,s,,,Fructosa libre que puede elevar glucosa sin suficiente proteína.
+Quesadillas combinadas - champiñones,platillo,media,65,ok,s,,,Verdura con fibra añadida al queso.
+Quesadillas combinadas - flor de calabaza,platillo,media,65,ok,s,,,Buena opción con verdura y queso moderado.
+Quesadillas combinadas - huitlacoche,platillo,media,65,ok,s,,,Aporte benéfico de fibra y antioxidantes.
+Quesadillas combinadas - Rajas,platillo,media,65,ok,s,,,Aporte de fibra vegetal por las rajas.
+Quesadillas con chicharrón,platillo,media,45,ok,s,,,Contiene fritura y grasas saturadas del chicharrón.
+Quesadillas de panela,platillo,alta,95,ok,s,,,Base de nopal con alta fibra y proteína magra.
+Quesadillas sencillas - harina,platillo,baja,35,ok,s,,,Harina de trigo refinada con alto índice glucémico.
+Quesadillas sencillas - maíz,platillo,media,55,ok,s,,,Tortilla de maíz aporta más fibra que harina refinada.
+Refresco - Coca-cola,bebida,baja,0,ok,s,,,Bebida ultraprocesada muy alta en azúcares refinados.
+Refresco - Coca-Cola Light,bebida,alta,80,ok,s,s,,"Bebida sin azúcar ni carbohidratos, endulzada con edulcorantes."
+Refresco - Sidral,bebida,baja,0,ok,s,,,Refresco tradicional con jarabe de alta fructosa/azúcar.
+Refresco - Squirt,bebida,baja,0,ok,s,,,Bebida azucarada con elevado impacto en la glucosa.
+Sandwich pavo natural,platillo,media,65,ok,s,,,Pavo magro; pan rústico suele tener menor índice glucémico.
+Sandwiches - atún y manzana,platillo,media,60,ok,s,,,"Buena proteína marina, carbohidratos presentes en pan y manzana."
+Sandwiches - huevo,platillo,media,63,ok,s,,,"Buena proteína, considerar carbohidratos del pan."
+Sandwiches - jamón de pavo,platillo,media,60,ok,s,,,Proteína magra con carbohidratos del pan de sándwich.
+Sandwiches - panela,platillo,media,62,ok,s,,,"Queso magro, cuidar el consumo de pan."
+Sandwiches - Pollo,platillo,media,62,ok,s,,,Proteína magra pero requiere moderar el pan.
+Smoothies - Fresa,bebida,baja,20,ok,s,,,Bebida dulce espesa con alto contenido de carbohidratos.
+Smoothies - guayaba,bebida,baja,20,ok,s,,,Pulpa concentrada con azúcares agregados.
+Smoothies - mango con chamoy,bebida,baja,15,ok,s,,,Mango maduro muy dulce combinado con chamoy azucarado.
+Smoothies - tamarindo,bebida,baja,20,ok,s,s,,Se supone: jarabe de tamarindo con alto contenido glucémico.
+Té caliente,bebida,alta,100,ok,s,,,Infusión natural libre de calorías y carbohidratos.
+Tizana caliente,bebida,media,60,ok,s,,,Frutas deshidratadas que desprenden fructosa en la infusión.
+Toast de salmón,platillo,alta,72,ok,s,s,,Salmón ofrece proteína y grasas saludables; moderar el pan.
+Toast Jardín Cafeto,platillo,media,55,ok,s,,,Se supone: base de pan tostado refinado.
+Vaso de leche - Almendra,bebida,media,68,ok,s,,,"Se supone: leche de almendra sin endulzar, baja en carbohidratos."
+Vaso de leche - avena,bebida,media,52,ok,s,,,Mayor contenido natural de carbohidratos que otras leches.
+Vaso de leche - coco,bebida,media,60,ok,s,,,"Carbohidratos moderados, contiene grasas saturadas."
+Vaso de leche - Vaca,bebida,media,60,ok,s,,,Contiene lactosa natural; moderar el volumen.
+Yogurt griego con frutos rojos,platillo,alta,85,ok,s,,,Excelente proteína magra y frutos rojos con bajo índice glucémico.

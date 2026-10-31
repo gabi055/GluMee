@@ -1,0 +1,30 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+Arrachera,platillo,media,48,ok,s,s,,"Buena carne, pero incluye exceso de carbohidratos: taco, enchilada y arroz."
+Tampiqueña,platillo,media,48,ok,s,,,Proteína magra pero contiene guarniciones altas en carbohidratos refinados.
+Fajitas de res o pollo - Fajitas de res,platillo,alta,85,ok,s,s,,"Buena proteína acompañada de grasas saludables del guacamole, bajo en carbohidratos."
+Fajitas de res o pollo - Fajitas de pollo,platillo,alta,90,ok,s,,,"Proteína magra excelente y grasas saludables del aguacate, sin carbohidratos refinados."
+Alambres,platillo,media,60,ok,s,s,,Buena proteína en brocheta; la sopa de arroz eleva los carbohidratos.
+Lengua en salsa verde o roja - Salsa verde,platillo,media,63,ok,s,,,"Buena opción de carne con verduras, aunque incluye arroz refinado."
+Lengua en salsa verde o roja - Salsa roja,platillo,media,63,ok,s,,,"Buena opción de carne con verduras, aunque incluye arroz refinado."
+Peinecillo de res,platillo,media,62,ok,s,,,Buena proteína y ensalada; el arroz aporta carbohidratos refinados.
+Carne Asada,platillo,media,52,ok,s,s,,"Proteína adecuada, pero contiene doble carbohidrato refinado: papas y arroz."
+Lomo Frito,platillo,media,45,ok,s,s,,"Se supone: frito en aceite abundante, limitando su calidad nutricional."
+Milanesa de Cerdo,platillo,baja,28,ok,s,s,,Se supone: empanizada y frita; acompañada de papas fritas y arroz.
+Milanesa de Pollo,platillo,baja,30,ok,s,,,Se supone: empanizada y frita; guarnición alta en frituras y carbohidratos.
+Carne de Puerco con Chile,platillo,media,62,ok,s,,,"Buena fuente proteica y ensalada, moderar la porción de arroz."
+Sopa de Arroz,platillo,baja,22,ok,s,,,Carbohidrato refinado con alto índice glucémico y escasa fibra.
+Sopa de Arroz con 2 huevos estrellados,platillo,baja,32,ok,s,s,,"El huevo añade proteína, pero la base es carbohidrato refinado."
+Sopa de Pasta,platillo,baja,20,ok,s,s,,Pasta refinada que eleva rápidamente los niveles de glucosa.
+Consomé con Verduras,platillo,alta,88,ok,s,,,"Caldo ligero con vegetales, muy bajo en carbohidratos refinados."
+Consomé con Pollo,platillo,alta,94,ok,s,s,,"Proteína magra en caldo, excelente opción sin carbohidratos refinados."
+Caldo Tlalpeño,platillo,alta,72,ok,s,s,,Proteína y verduras saludables; contiene arroz blanco y garbanzo en moderación.
+Ensalada de Verduras,platillo,alta,82,ok,s,s,,Excelente aporte de vegetales y fibra; moderar el aderezo Mil Islas.
+Las Tradicionales Jericallas,postre,baja,15,ok,s,,,Postre tradicional alto en azúcares refinados y lácteos enteros.
+Flan Casero,postre,baja,15,ok,s,,,"Alto contenido de azúcar y caramelo, desaconsejado para diabetes."
+Pay de Queso con Mermelada,postre,baja,10,ok,s,,,Harina refinada y mermelada alta en azúcares simples.
+Duraznos en Almíbar,postre,baja,8,ok,s,,,El almíbar es azúcar concentrada que eleva rápidamente la glucosa.
+Chongos Zamoranos,postre,baja,10,ok,s,,,Dulce tradicional elaborado con abundante almíbar y azúcar.
+Copa Tres Marías,postre,baja,10,ok,s,,,Postre helado con alto contenido de azúcar refinada.
+Banana Split,postre,baja,8,ok,s,,,"Combinación de fruta madura, helado y jarabes muy azucarados."
+Peach Melba,postre,baja,8,ok,s,,,Fruta dulce acompañada de helado y salsas azucaradas.
+Escamocha,postre,baja,18,ok,s,s,,El jugo de naranja y frutas concentran azúcares de rápida absorción.

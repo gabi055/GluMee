@@ -1,0 +1,158 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+Pico de gallo,platillo,alta,95,ok,s,s,,Verduras frescas ricas en fibra y muy bajas en carbohidratos.
+Guacamole,platillo,alta,90,ok,s,,,"Grasas saludables y fibra vegetal, bajo impacto en glucosa."
+Papas a la francesa,platillo,baja,15,ok,s,,,Fritura con alto contenido de carbohidratos refinados de rápida absorción.
+Champiñones al ajillo,platillo,alta,92,ok,s,,,"Hongos ricos en fibra, muy bajos en carbohidratos y azúcar."
+Tapas mixtas,platillo,media,45,ok,s,,,Se supone: elaboradas con base de pan blanco refinado.
+Panela al horno,platillo,alta,88,ok,s,,,"Proteína magra combinada con ensalada, muy baja en carbohidratos."
+Nachos naturales,platillo,baja,30,ok,s,,,Totopos fritos con alto contenido de carbohidratos procesados.
+Nachos con arrachera,platillo,media,40,ok,s,,,Aporta proteína pero contiene totopos fritos ricos en carbohidratos.
+Rollos thai,platillo,media,55,ok,s,s,,Se supone: masa refinada que puede incluir salsas con azúcar.
+Tártara de atún,platillo,alta,95,ok,s,s,,Excelente fuente de proteína magra y ácidos grasos sin carbohidratos.
+Aguachile tatemado,platillo,alta,92,ok,s,,,"Marisco magro con vegetales frescos, muy bajo en carbohidratos."
+Portobello relleno,platillo,alta,88,ok,s,n,Depende del relleno,Hongo abundante en fibra y muy bajo en carbohidratos.
+Enchiladas - Panela,platillo,media,50,ok,s,,,Se supone: tortillas fritas que aportan carbohidratos moderados.
+Enchiladas - Pollo,platillo,media,52,ok,s,,,Proteína magra combinada con tortillas que suelen ser fritas.
+Enmoladas - Panela,platillo,baja,38,ok,s,,,Se supone: la salsa de mole suele contener azúcares añadidos.
+Enmoladas - Pollo,platillo,baja,39,ok,s,s,,Se supone: mole elaborado con azúcar o chocolate dulce.
+Quesadillas combinadas,platillo,media,60,ok,s,s,,"Relleno vegetal saludable, moderado por carbohidratos de la masa."
+Molletes - Mexicanos,platillo,media,48,ok,s,,,Pan blanco con frijoles; aporta fibra pero bastantes carbohidratos.
+Molletes - Toluca,platillo,media,42,ok,s,n,El chorizo no es la restricción principal,Pan blanco con chorizo alto en grasas saturadas.
+Molletes - Jardín Cafeto,platillo,media,50,ok,s,,,Proteína magra sobre pan blanco refinado.
+Molletes - Tradicionales,platillo,baja,10,ok,s,,,Contiene azúcar añadida sobre pan blanco refinado.
+Molletes - Morelianos,platillo,baja,12,ok,s,,,El ate contiene una concentración muy alta de azúcar.
+Molletes - De la casa,platillo,baja,15,ok,s,,,Alto en azúcar refinada y grasas saturadas.
+Ensalada Jardín Cafeto - panela asada,platillo,alta,90,ok,s,,,Vegetales y queso panela con muy bajo aporte glucémico.
+Ensalada Jardín Cafeto - pollo,platillo,alta,92,ok,s,s,,Proteína magra combinada con hojas verdes ricas en fibra.
+Ensalada Mediterránea,platillo,alta,90,ok,s,,,Vegetales frescos y grasas saludables sin carbohidratos refinados.
+Ensalada fresca,platillo,media,58,ok,s,s,,Contiene fruta dulce y palanqueta de cacahuate con azúcar.
+Ensalada César con pollo,platillo,alta,82,ok,s,,,"Proteína magra con lechuga, moderar aderezo y posibles crutones."
+Ensalada tibia - Jamón serrano,platillo,alta,85,ok,s,,,Base vegetal con proteína y prácticamente sin carbohidratos.
+Ensalada tibia - pollo,platillo,alta,92,ok,s,,,Excelente combinación de verduras y proteína magra.
+Ensalada tibia - camarón,platillo,alta,90,ok,s,,,"Camarón magro con vegetales, muy bajo índice glucémico."
+Sopa de tortilla,platillo,media,48,ok,s,,,Se supone: contiene tiras de tortilla de maíz frita.
+Caldo tlalpeño,platillo,alta,85,ok,s,,,"Caldo con pollo y verduras, nutritivo y bajo en carbohidratos."
+Crema poblana,platillo,media,55,ok,s,,,Se supone: contiene crema y espesantes a base de almidón.
+Sándwich - Atún y manzana,platillo,media,58,ok,s,,,Buena proteína pero servido en pan refinado.
+Sándwich - Jamón y panela,platillo,media,60,ok,s,,,Proteína magra; el pan aporta carbohidratos refinados.
+Club sándwich,platillo,media,48,ok,s,,,Múltiples rebanadas de pan blanco y tocino graso.
+Sándwich - Pollo y aguacate,platillo,media,64,ok,s,,,Proteína magra y grasa saludable sobre pan rústico.
+Sándwich - Pavo,platillo,media,65,ok,s,,,Pavo magro con carbohidratos provenientes del pan.
+Sándwich - Roast beef,platillo,media,62,ok,s,,,Buena proteína de res magra sobre pan rústico.
+Lonche de pancita,platillo,media,45,ok,s,,,Pan refinado tipo bolillo con carne alta en grasa.
+Pasta Pomodoro,platillo,baja,38,ok,s,,,Pasta de harina de trigo refinada rica en carbohidratos.
+Pasta Arrabbiata,platillo,baja,38,ok,s,,,Harina refinada que eleva los niveles de glucosa.
+Pasta Alfredo,platillo,baja,30,ok,s,,,Carbohidratos refinados combinados con salsa cremosa rica en grasa.
+Pasta 4 quesos,platillo,baja,30,ok,s,,,Pasta refinada con alta densidad calórica y grasas.
+Pasta Poblana,platillo,baja,35,ok,s,,,Carga glucémica elevada por la pasta de trigo.
+Pasta Jardín Cafeto,platillo,media,42,ok,s,,,Contiene pollo magro pero la base es pasta refinada.
+Pasta Boloñesa,platillo,media,42,ok,s,,,Proteína de carne molida sobre pasta rica en carbohidratos.
+Lasagna de carne,platillo,baja,35,ok,s,,,Láminas de pasta refinada con salsa y queso.
+Lasagna vegetariana,platillo,baja,38,ok,s,s,,Aporta vegetales pero la pasta refinada sigue predominando.
+Pizza Vegetariana,platillo,baja,38,ok,s,,,Masa de harina de trigo refinada con verduras.
+Pizza Margarita,platillo,baja,35,ok,s,,,Masa de pizza refinada rica en carbohidratos.
+Pizza Pepperoni,platillo,baja,30,ok,s,,,Masa refinada combinada con embutido graso.
+Pizza 4 quesos,platillo,baja,30,ok,s,,,Carbohidratos refinados y alta cantidad de grasas saturadas.
+Pizza Especial,platillo,baja,36,ok,s,,,Masa de trigo refinado con alta carga de carbohidratos.
+Pizza Jardín Cafeto,platillo,baja,38,ok,s,,,Harina refinada que eleva rápidamente la glucosa.
+Pizza Caprichosa,platillo,baja,35,ok,s,,,Masa de pizza refinada alta en carbohidratos.
+Pizza Jamón Serrano,platillo,baja,36,ok,s,,,Masa refinada con embutido curado.
+Pizza Alcachofa y Espinaca,platillo,baja,39,ok,s,,,Verduras ricas en fibra sobre masa de pizza refinada.
+Pizza Camarón y Pimiento,platillo,baja,38,ok,s,,,Proteína magra pero masa blanca con alta carga glucémica.
+Pizza individual,platillo,baja,35,ok,s,,,Masa de harina de trigo rica en carbohidratos refinados.
+Pesca del día a la plancha,platillo,alta,98,ok,s,,,"Pescado magro a la plancha, excelente opción sin carbohidratos."
+Salmón a la plancha,platillo,alta,96,ok,s,,,Proteína magra y grasas saludables sin carbohidratos.
+Fish & chips,platillo,baja,25,ok,s,,,Pescado rebozado frito acompañado de papas fritas.
+Camarones - Al ajillo,platillo,alta,92,ok,s,,,Marisco magro preparado sin carbohidratos ni azúcares.
+Camarones - empanizados,platillo,baja,35,ok,s,,,Camarones fritos con empanizado de harina refinada.
+Camarones - Jardín Cafeto,platillo,media,65,ok,s,,,Se supone: salsa cremosa que puede contener grasa o espesante.
+Camarones - diabla,platillo,alta,75,ok,s,,,Se supone: salsa de chiles sin exceso de azúcares.
+Tacos de camarón,platillo,media,65,ok,s,,,Proteína magra servida en tortillas de maíz.
+Quesadillas de camarón,platillo,media,60,ok,s,,,"Camarones y queso en tortillas, moderado en carbohidratos."
+Tacos de picaña,platillo,media,68,ok,s,,,Buena proteína en tortilla de maíz moderada.
+Tacos de New York,platillo,media,68,ok,s,,,Corte de carne magro en tortillas de maíz.
+Albóndigas de res,platillo,alta,75,ok,s,,,"Proteína de res, puede tener un poco de arroz o pan."
+Carne en su jugo,platillo,alta,85,ok,s,,,"Caldo de res con proteína y verduras, bajo impacto glucémico."
+Fajitas de pollo,platillo,alta,94,ok,s,,,"Pollo magro cocinado con verduras, excelente para control glucémico."
+Fajitas de res,platillo,alta,90,ok,s,,,"Carne de res salteada con verduras, casi sin carbohidratos."
+Pechuga de pollo a la parrilla,platillo,alta,98,ok,s,,,Proteína muy magra sin carbohidratos ni fritura.
+Milanesa Jardín Cafeto - Pollo,platillo,baja,35,ok,s,,,Se supone: empanizada con pan molido y frita en aceite.
+Milanesa Jardín Cafeto - res,platillo,baja,35,ok,s,,,Se supone: carne empanizada frita rica en almidón.
+Pollo cordon bleu,platillo,baja,38,ok,s,,,Se supone: pechuga rellena empanizada y frita.
+Hamburguesa de res,platillo,media,52,ok,s,,,Buena proteína pero incluye bollo de pan refinado.
+Hamburguesa de Pechuga empanizada,platillo,baja,32,ok,s,,,Pan refinado y pechuga frita con empanizado.
+Arrachera,platillo,alta,95,ok,s,,,Carne magra sin azúcares ni carbohidratos refinados.
+Picaña,platillo,alta,92,ok,s,,,Corte de carne sin carbohidratos; moderar grasa exterior.
+Crepas - Parisina,platillo,media,45,ok,s,,,Crepa elaborada con harina refinada rellena de jamón y queso.
+Crepas - Jardín Cafeto,platillo,media,48,ok,s,,,Masa de harina de trigo rellena de pollo.
+Crepas - Poblana,platillo,media,46,ok,s,,,Harina refinada y granos de elote ricos en almidón.
+Crepas - Boloñesa,platillo,media,48,ok,s,,,Harina refinada con carne en salsa de tomate.
+Crepas - Pan de elote,platillo,baja,30,ok,s,,,Contiene pan de elote dulce dentro de masa refinada.
+Crepas - Manzana,postre,baja,12,ok,s,,,Crepa dulce acompañada de helado alto en azúcares.
+Crepas - Frutos rojos,postre,baja,14,ok,s,,,Contiene azúcares refinados y helado dulce.
+Crepas - Nutella,postre,baja,5,ok,s,,,Masa refinada con crema de avellana y helado azucarados.
+Crepas - Cajeta,postre,baja,5,ok,s,,,Altísima cantidad de azúcar por la cajeta y el helado.
+Crepas - Pan de elote dulce,postre,baja,5,ok,s,,,"Triple fuente de azúcar: pan dulce, cajeta y helado."
+Concha con nata,postre,baja,10,ok,s,,,Pan dulce tradicional muy alto en azúcares y harinas refinadas.
+Pay de plátano,postre,baja,10,ok,s,,,Postre con harina refinada y alta carga de azúcar.
+Pastel 3 leches,postre,baja,5,ok,s,,,Bizcocho empapado en leches azucaradas; pico glucémico muy alto.
+Pastel de chocolate,postre,baja,5,ok,s,,,Pastel azucarado con helado alto en carbohidratos rápidos.
+Brownie,postre,baja,5,ok,s,,,Repostería densa en azúcar y grasa con helado.
+Strudel de manzana,postre,baja,12,ok,s,,,Masa de hojaldre con relleno azucarado y helado.
+Churros caseros,postre,baja,8,ok,s,,,Masa frita rebozada en azúcar con helado.
+Fresas con crema,postre,media,40,ok,s,,,Se supone: la crema puede estar endulzada con azúcar.
+Arroz con leche,postre,baja,12,ok,s,,,Arroz blanco refinado cocido con abundante azúcar.
+Margarita,bebida,baja,20,ok,s,,,Coctel con jarabes y licores ricos en azúcares simples.
+Daikiri,bebida,baja,15,ok,s,,,Bebida alcohólica con jarabe de azúcar añadido.
+Tequila Sunrise,bebida,baja,10,ok,s,,,Contiene jugo de naranja y granadina muy azucarada.
+Sangría,bebida,baja,15,ok,s,,,Se prepara con jarabe y refrescos dulces.
+Clericot,bebida,baja,15,ok,s,,,Mezcla de vino con fruta y refresco azucarado.
+Mojitos,bebida,baja,15,ok,s,,,Coctel con azúcar refinada disuelta.
+Piña Colada,bebida,baja,5,ok,s,,,Crema de coco dulce y jugo de piña muy azucarado.
+Paloma Spritz,bebida,baja,25,ok,s,,,Suele contener refresco de toronja con azúcar.
+Berry Me,bebida,baja,15,ok,s,,,Coctelería dulce elaborada con jarabes de frutos rojos.
+Aperol Spritz,bebida,baja,25,ok,s,,,El licor de Aperol contiene una cantidad considerable de azúcar.
+St. Germain Spritz,bebida,baja,22,ok,s,,,Licor de flor de saúco con contenido de azúcar.
+Cerveza - Corona,bebida,baja,35,ok,s,,,Contiene alcohol y carbohidratos fermentables del cereal.
+Cerveza - Corona light,bebida,media,45,ok,s,,,Menor cantidad de carbohidratos que una cerveza normal.
+Cerveza - Modelo,bebida,baja,35,ok,s,,,Aporta carbohidratos líquidos derivados de granos malteados.
+Cerveza - Victoria,bebida,baja,35,ok,s,,,Carbohidratos fermentables y alcohol que interfieren con glucosa.
+Rusa de cerveza,bebida,baja,28,ok,s,,,Se supone: contiene refresco de toronja azucarado con cerveza.
+Michelada con salsa,bebida,baja,32,ok,s,,,Cerveza con salsas sazonadoras; moderar carbohidratos y sodio.
+Michelada con clamato,bebida,baja,30,ok,s,s,,El clamato comercial suele contener azúcares y jarabes añadidos.
+Limonada,bebida,baja,20,ok,s,,,Se supone: preparada habitualmente con jarabe o azúcar refinada.
+Naranjada,bebida,baja,20,ok,s,,,Se supone: endulzada con azúcar añadido y fructosa natural.
+Refresco - Coca-Cola,bebida,baja,0,ok,s,,,Bebida azucarada con altísimo impacto en niveles de glucosa.
+Refresco - Squirt,bebida,baja,0,ok,s,,,Refresco azucarado con elevadísima carga glucémica líquida.
+Refresco - Sidral,bebida,baja,0,ok,s,,,Bebida azucarada rica en sacarosa y fructosa.
+Refresco - Coca-Cola Light,bebida,alta,78,ok,s,,,"Sin azúcar añadida ni carbohidratos, no eleva la glucosa."
+Perrier,bebida,alta,100,ok,s,,,"Agua mineralizada sin calorías, azúcar ni carbohidratos."
+Agua embotellada,bebida,alta,100,ok,s,,,"Hidratación ideal sin carbohidratos, azúcar ni aditivos."
+Piñada,bebida,baja,10,ok,s,,,Bebida dulce a base de coco y jugo de piña concentrado.
+Conga,bebida,baja,10,ok,s,,,Mezcla de jugos frutales con granadina altamente azucarada.
+Agua fresca,bebida,baja,20,ok,s,,,Se supone: preparada comúnmente con abundante azúcar añadida.
+Jarra de agua,bebida,baja,20,ok,s,,,Se supone: agua de fruta natural endulzada con azúcar.
+Jugo de naranja,bebida,baja,25,ok,s,s,Se metaboliza como azúcar libre,Fructosa concentrada de rápida absorción sin la fibra de la fruta.
+Café de olla,bebida,baja,20,ok,s,,,Se supone: tradicionalmente elaborado con piloncillo o azúcar.
+Café americano,bebida,alta,100,ok,s,,,Café negro sin azúcar ni carbohidratos añadidos.
+Café descafeinado,bebida,alta,100,ok,s,,,"Bebida sin azúcar ni carbohidratos, completamente compatible."
+Café americano de maquina,bebida,alta,100,ok,s,,,Café solo sin aporte glucémico.
+Café lechero,bebida,media,65,ok,s,,,Contiene lactosa natural de la leche; evitar endulzar.
+Espresso,bebida,alta,100,ok,s,,,Café concentrado puro sin carbohidratos ni azúcares.
+Espresso cortado,bebida,alta,90,ok,s,,,"Café con apenas un toque de leche, carbohidratos insignificantes."
+Capuccino,bebida,media,65,ok,s,,,Leche vaporizada con lactosa natural; pedir sin azúcar añadida.
+Capuccino Licor - Baileys,bebida,baja,25,ok,s,,,El licor de crema irlandesa contiene alta cantidad de azúcar.
+Capuccino Licor - Rompope,bebida,baja,20,ok,s,,,Rompope elaborado con abundante azúcar y huevo.
+Capuccino Licor - Kahlúa,bebida,baja,20,ok,s,,,Licor de café denso en jarabe de azúcar.
+Té,bebida,alta,100,ok,s,,,Infusión natural sin carbohidratos ni calorías.
+Tizana caliente,bebida,media,65,ok,s,,,Se supone: trozos de fruta deshidratada que pueden aportar azúcar.
+Frizana - frutos dorados,bebida,baja,25,ok,s,,,Se supone: bebida frappé endulzada con jarabe frutal.
+Frizana - moras silvestres,bebida,baja,25,ok,s,,,Se supone: frappé con bases concentradas en azúcar.
+Frizana - clementina damasco,bebida,baja,25,ok,s,,,Se supone: jarabes de fruta con alto contenido de glucosa.
+Latte Chai,bebida,baja,30,ok,s,,,Se supone: los polvos o jarabes de té chai son azucarados.
+Taro,bebida,baja,30,ok,s,,,Se supone: preparado comercial en polvo alto en azúcar añadido.
+Matcha,bebida,media,60,ok,s,,,Se supone: mezcla comercial endulzada con leche.
+Malteada - Oreo,bebida,baja,5,ok,s,,,"Helado, galletas procesadas y azúcar con alta carga glucémica."
+Malteada - Chocolate,bebida,baja,5,ok,s,,,Helado con jarabe de chocolate muy azucarado.
+Malteada - Mazapán,bebida,baja,5,ok,s,,,Helado con dulce de cacahuate altamente azucarado.
+Chocolate caliente,bebida,baja,20,ok,s,,,Se supone: chocolate de mesa preparado con alta azúcar.

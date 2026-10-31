@@ -1,0 +1,58 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+COMBINACION LA TRATTORIA,platillo,baja,15,ok,s,s,,Exceso de carbohidratos refinados de múltiples pastas.
+FETTUCCINE ALFREDO,platillo,baja,20,ok,s,,,Carbohidratos refinados con crema rica en grasas saturadas.
+FETTUCCINE ALLA PANNA E POLLO,platillo,baja,28,ok,s,,,Pasta refinada combinada con salsa de crema alta en grasa.
+FOCACCIA ALLA RUCOLA,platillo,baja,28,ok,s,,,Elevado contenido de carbohidratos refinados por la masa de focaccia.
+FOCACCIA BARESE,platillo,baja,25,ok,s,,,Base de pan blanco rica en carbohidratos refinados.
+FUSELLI AL PESTO GENOVESE,platillo,baja,30,ok,s,,,Pasta refinada; grasa saludable de nuez y aceite.
+FUSILLI BIZZARRO,platillo,baja,25,ok,s,,,Pasta refinada con crema.
+GNOCCHI AL GUSTO,platillo,baja,20,ok,s,s,,"Elaborado con papa y harina, de muy alto índice glucémico."
+LASAGNE AL FORNO,platillo,baja,25,ok,s,,,Pasta refinada en capas con salsa y queso.
+LINGUINE AI TARTUFI,platillo,baja,32,ok,s,,errata,"Pasta refinada, aunque incluye grasas saludables y hongos."
+LINGUINE ALLA MARATEA,platillo,baja,35,ok,s,,,"Pasta refinada que eleva glucosa, a pesar de contener calamares."
+LINGUINE ALLE COZZE,platillo,baja,35,ok,s,,,Pasta refinada; mejillones aportan proteína magra.
+LINGUINE FRUTTI DI MARE,platillo,baja,35,ok,s,,,Buena proteína marina pero base de pasta refinada.
+PARMIGIANA DI MANZO,platillo,baja,38,ok,s,,,Filete empanizado sumado a puré de papa eleva carbohidratos.
+PENNETTE ALL' AMATRICIANA,platillo,baja,28,ok,s,,,Pasta refinada con tocino y jitomate.
+PENNETTE QUATTRO FORMAGGI,platillo,baja,20,ok,s,,,Carbohidratos refinados altos y elevado contenido graso.
+PIZZA AZZURRI,platillo,baja,25,ok,s,,,Carbohidratos refinados en la masa y queso alto en grasas.
+PIZZA BOTINELLI,platillo,baja,25,ok,s,,,Masa de harina refinada que eleva rápidamente la glucosa.
+PIZZA CAPRICCIOSA,platillo,baja,23,ok,s,,,Masa refinada y embutidos con alta grasa y sodio.
+PIZZA FUNGHI E PEPERONI,platillo,baja,22,ok,s,,,Carbohidratos refinados y embutido alto en sodio y grasa.
+PIZZA HAWAIANA,platillo,baja,20,ok,s,s,,Masa refinada combinada con azúcar de la piña.
+PIZZA MARGHERITA,platillo,baja,25,ok,s,,,Masa de pizza con abundantes carbohidratos refinados.
+PIZZA MEDITERRANEA,platillo,baja,25,ok,s,,,Base de harina refinada no favorable para el control glucémico.
+PIZZA QUATTRO FORMAGGI,platillo,baja,22,ok,s,,,Harina refinada y alto contenido de grasas saturadas.
+PIZZA VEGETARIANA,platillo,baja,30,ok,s,,,Buenas verduras pero base de masa de harina refinada.
+RAVIOLI AL GUSTO,platillo,baja,30,ok,s,,,Pasta de trigo refinado con alto contenido de carbohidratos.
+RAVIOLI ALLA FIORENTINA,platillo,baja,30,ok,s,,,Pasta refinada rellena de lácteos grasos y camarón.
+SPAGHETTI - al burro,platillo,baja,22,ok,s,s,,"Pasta refinada con mantequilla pura, carece de fibra."
+SPAGHETTI - al ragú,platillo,baja,30,ok,s,,,Pasta refinada; la carne molida aporta algo de proteína.
+SPAGHETTI - pomodoro,platillo,baja,28,ok,s,,,Pasta refinada con salsa de tomate sin proteína relevante.
+"SPAGHETTI AGLIO, OLIO E PEPERONCINO",platillo,baja,28,ok,s,,,"Pasta refinada con aceite de oliva, carece de proteína y fibra."
+SPAGHETTI ALL' AMATRICIANA,platillo,baja,28,ok,s,,,Pasta refinada con tocino y jitomate.
+SPAGHETTI ALLA ARRABBIATA,platillo,baja,25,ok,s,,,Pasta refinada con mantequilla y tocino.
+SPAGHETTI ALLA PUTTANESCA,platillo,baja,30,ok,s,,,Pasta refinada; ingredientes aportan grasas buenas pero no compensan.
+VITELLO AL GUSTO,platillo,media,65,ok,s,s,,Buena proteína magra; la guarnición de puré de papa eleva glucosa.
+FILETTO DI MANZO AL VINO ROSSO,platillo,media,60,ok,s,,,Buena proteína pero salsa espesada y puré de papa.
+BROCHETA DE CAMARONES,platillo,alta,85,ok,s,s,,Proteína magra y verduras; moderar consumo de tocino.
+FILETTO DI MANZO AI FERRI,platillo,media,68,ok,s,s,,Excelente carne a la plancha; moderar el puré de papa.
+TORTELLINI AL GUSTO,platillo,baja,30,ok,s,,,Pasta refinada; aporte proteico moderado.
+SCALOPPINE AL LIMONE,platillo,media,65,ok,s,,,Buena proteína; puré de papa aporta carbohidratos de rápida absorción.
+SALTIMBOCCA,platillo,media,65,ok,s,,,Rica en proteína; cuidar la porción de puré de papa.
+SCALOPPINE ALLA MARSALA,platillo,media,62,ok,s,,,Proteína con champiñones; el vino y puré aportan carbohidratos.
+CAMARONES AL MOJO DE AJO,platillo,alta,88,ok,s,,,"Proteína marina con verduras, bajo en carbohidratos."
+CAMARONES AL VINO BIANCO,platillo,alta,88,ok,s,,,"Camarones con verduras, sin harinas añadidas."
+FILETE DE PESCADO A LA DIABLA,platillo,alta,82,ok,s,,,Pescado con verduras; salsas cremosas podrían sumar calorías.
+POLLO PARMIGIANA,platillo,media,55,ok,s,s,,El empanizado aporta carbohidratos refinados no recomendados.
+FILETE DE PESCADO A LA PLANCHA,platillo,alta,95,ok,s,s,,"Pescado magro a la plancha con verduras, opción ideal."
+FILETE DE PESCADO AL MOJO DE AJO,platillo,alta,90,ok,s,,,Pescado magro con ajo y guarnición de verduras.
+CAMARONES A LA DIABLA,platillo,media,68,ok,s,,,Proteína magra pero contiene salsa a la crema.
+FILETE DE PESCADO ALLA ROMINA,platillo,alta,85,ok,s,,,"Pescado con verduras, muy adecuado para diabetes."
+FILETTO DI SALMONE ROSETTA,platillo,alta,95,ok,s,s,,Pescado rico en omega 3 con guarnición de verduras.
+INVOLTINI DI POLLO,platillo,alta,88,ok,s,s,,"Pechuga con espinaca y verduras, excelente para diabetes."
+POLLO AL LIMONE,platillo,alta,88,ok,s,,,"Proteína magra sin harinas, acompañada de verduras."
+FILETE DE PESCADO EMPANIZADO,platillo,media,50,ok,s,s,,Se supone: frito o con cobertura de pan refinado.
+POLLO AL VINO BIANCO,platillo,alta,90,ok,s,,,"Pechuga de pollo, aceite de oliva y verduras; muy favorable."
+POLLO ALLA MARSALA,platillo,alta,85,ok,s,,,"Proteína magra acompañada de verduras, baja en carbohidratos."
+TAGLIATA DI MANZO CON RUCOLA,platillo,alta,90,ok,s,,,"Proteína magra con arúgula, sin carbohidratos refinados."

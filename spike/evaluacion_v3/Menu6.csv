@@ -1,0 +1,48 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+Kappa Maki,platillo,media,55,ok,s,s,,Se supone: contiene arroz blanco refinado; relleno vegetal ligero y bajo en grasa.
+Ebi Maki,platillo,media,55,ok,s,,,Proteína magra; se supone: contiene arroz blanco con carbohidratos refinados.
+Tako Maki,platillo,media,55,ok,s,,,Pulpo como proteína magra; se supone: contiene arroz blanco refinado.
+Siromi Maki,platillo,media,58,ok,s,,,Pescado blanco magro; se supone: contiene arroz blanco de índice glucémico elevado.
+Kani Maki,platillo,media,45,ok,s,s,,El surimi procesado aporta almidón; se supone: contiene arroz blanco refinado.
+Tekka Maki,platillo,media,58,ok,s,,,Atún como proteína magra; se supone: contiene arroz blanco refinado.
+Ume Maki,platillo,baja,35,ok,s,s,,El chamoy suele tener azúcares añadidos; se supone: contiene arroz refinado.
+Negihama,platillo,media,60,ok,s,,,Pescado con grasas saludables; se supone: contiene arroz blanco refinado.
+Tokai Maki,platillo,media,50,ok,s,s,,Aporta grasas de aguacate y queso; se supone: contiene arroz refinado.
+California Maki - camarón,platillo,media,52,ok,s,s,,Proteína magra y grasas saludables; se supone: contiene arroz blanco refinado.
+California Maki - pulpo,platillo,media,52,ok,s,,,Proteína magra de pulpo; se supone: contiene arroz blanco refinado.
+California Maki - kani,platillo,media,45,ok,s,,,El surimi contiene almidones procesados y se suma al arroz refinado.
+California Maki - siromi,platillo,media,54,ok,s,,,Pescado blanco magro; se supone: contiene arroz blanco refinado.
+California Maki - salmón,platillo,media,55,ok,s,,,Salmón con ácidos grasos saludables; se supone: incluye arroz blanco refinado.
+California Maki - atún,platillo,media,55,ok,s,,,Buena proteína magra; se supone: incluye arroz blanco refinado.
+California Maki - hamachi,platillo,media,55,ok,s,,,Pescado con grasas saludables; se supone: incluye arroz blanco refinado.
+California Maki - anguila,platillo,baja,38,ok,s,s,,Se supone: la anguila se prepara con salsa dulce con azúcar añadida.
+Masago Maki - camarón,platillo,media,50,ok,s,,,Camarón magro; la base es arroz blanco refinado alto en carbohidratos.
+Masago Maki - pulpo,platillo,media,50,ok,s,,,Pulpo magro; contiene arroz blanco refinado que eleva la glucosa.
+Masago Maki - kani,platillo,media,42,ok,s,,,Contiene surimi procesado y arroz blanco refinado.
+Masago Maki - siromi,platillo,media,52,ok,s,,,Pescado blanco magro; contiene arroz blanco refinado.
+Masago Maki - salmón,platillo,media,53,ok,s,,,Salmón con omega 3; contiene arroz blanco refinado.
+Masago Maki - atún,platillo,media,53,ok,s,,,Atún magro; contiene arroz blanco refinado de absorción rápida.
+Masago Maki - hamachi,platillo,media,53,ok,s,,,Pescado con grasas buenas; contiene arroz blanco refinado.
+Masago Maki - anguila,platillo,baja,38,ok,s,s,,"Se supone: la anguila incluye salsa dulce azucarada, más arroz refinado."
+Philadelphia Maki - camarón,platillo,media,48,ok,s,,,Alto en queso crema; se supone: contiene arroz blanco refinado.
+Philadelphia Maki - pulpo,platillo,media,48,ok,s,,,Pulpo magro con alta grasa saturada del queso y arroz refinado.
+Philadelphia Maki - kani,platillo,media,42,ok,s,,,Surimi con almidón más queso crema y arroz blanco refinado.
+Philadelphia Maki - siromi,platillo,media,50,ok,s,,,Pescado blanco magro; se supone: contiene arroz refinado y queso crema.
+Philadelphia Maki - salmón,platillo,media,50,ok,s,,,Salmón nutritivo; se supone: contiene arroz refinado y queso crema abundante.
+Philadelphia Maki - atún,platillo,media,50,ok,s,,,Atún magro; se supone: contiene arroz refinado y queso crema.
+Philadelphia Maki - hamachi,platillo,media,50,ok,s,,,Pescado hamachi; se supone: contiene arroz refinado y queso crema abundante.
+Philadelphia Maki - anguila,platillo,baja,36,ok,s,s,,"Se supone: salsa dulce azucarada de anguila, más arroz y queso crema."
+Abocado Maki - camarón,platillo,media,54,ok,s,,,Grasa saludable del aguacate; se supone: contiene arroz blanco refinado.
+Abocado Maki - pulpo,platillo,media,54,ok,s,,,Pulpo magro y aguacate; se supone: contiene arroz blanco refinado.
+Abocado Maki - kani,platillo,media,46,ok,s,,,Surimi con almidón procesado; se supone: contiene arroz refinado.
+Abocado Maki - siromi,platillo,media,56,ok,s,,,Pescado magro y aguacate; se supone: contiene arroz blanco refinado.
+Abocado Maki - salmón,platillo,media,57,ok,s,,,Grasas saludables de aguacate y salmón; contiene arroz blanco refinado.
+Abocado Maki - atún,platillo,media,57,ok,s,,,Proteína magra y aguacate; se supone: contiene arroz blanco refinado.
+Abocado Maki - hamachi,platillo,media,57,ok,s,,,Pescado de calidad y aguacate; se supone: contiene arroz blanco refinado.
+Abocado Maki - anguila,platillo,baja,38,ok,s,,,"Se supone: salsa dulce de anguila con azúcar, más arroz refinado."
+Kiuri Maki - camarón,platillo,alta,72,ok,s,s,,"Envuelto en pepino, camarón magro; bajo en carbohidratos si no lleva arroz."
+Kiuri Maki - kani,platillo,media,62,ok,s,,,Envuelto en pepino; el surimi contiene almidones procesados.
+Kiuri Maki - pulpo,platillo,alta,72,ok,s,,,Envuelto en vegetal fresco con pulpo magro; reduce carbohidratos refinados.
+Kiuri Maki - salmón,platillo,alta,75,ok,s,s,,"Envuelto en pepino, salmón y aguacate; excelente perfil de grasas y verduras."
+Kiuri Maki - atún,platillo,alta,75,ok,s,s,,Envuelto en pepino con atún magro; favorece verduras y proteína magra.
+Kiuri Maki - hamachi,platillo,alta,74,ok,s,s,,Envuelto en pepino con pescado de calidad; bajo en carbohidratos refinados.

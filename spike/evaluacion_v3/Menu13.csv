@@ -1,0 +1,30 @@
+nombre,tipo,compatibilidad,puntaje,marca,tipo_ok,compat_ok,nota,razon
+AFOGGATO DE TIRAMISÚ,postre,baja,15,ok,s,,,Se supone: contiene bizcocho con carbohidratos refinados y alto contenido de azúcar.
+BONNARD,bebida,baja,20,ok,s,,,Puré de mango concentrado y dulce deshidratado aportan alto contenido de azúcar.
+BUTTER CAKE,postre,baja,12,ok,s,,,Bizcocho con abundantes carbohidratos refinados y azúcares añadidos.
+CHÂTEAU HAUT-BERGERON SAUTERNES FRANCE,bebida,baja,15,ok,s,,,Vino dulce de postre con alto contenido de azúcar residual.
+CHÂTEAU LAFFITTE-TESTON FRANCE,bebida,baja,15,ok,s,,,Vino de postre con elevado contenido de azúcares residuales.
+CHEESECAKE CON GALLETA OREO,postre,baja,10,ok,s,,,"Galleta refinada, pastel azucarado y salsa de caramelo muy dulce."
+CHURROS DE BARRIO,postre,baja,10,ok,s,,,Se supone frito; alto en harinas refinadas y salsas con mucha azúcar.
+CRÈME BRULÉE,postre,baja,15,ok,s,,,Postre lácteo con capa superior de azúcar caramelizada.
+CREPAS DE CAJETA (3 pzas),postre,baja,10,ok,s,,,Harina refinada y cajeta con muy alta carga de azúcares simples.
+CROCANTE DE DULCE DE LECHE,postre,baja,10,ok,s,,,Muy alto en azúcar por dulce de leche y galleta refinada.
+HAMILCAR,bebida,baja,20,ok,s,,,"Contiene jarabe de jamaica azucarado, desaconsejado para la diabetes."
+HELADO DE CAMPECHANA,postre,baja,10,ok,s,s,,"Hojaldre refinado con helado, dulce de leche y nuez caramelizada."
+HELADO DE YOGHURT CON FRUTOS ROJOS,postre,baja,25,ok,s,s,,"Los frutos rojos aportan fibra, pero el helado contiene azúcares simples añadidos."
+ISLA FLOTANTE,postre,baja,18,ok,s,,,Merengue con alto aporte de azúcares simples.
+PAN DE ELOTE,postre,baja,15,ok,s,,,Alto en carbohidratos refinados y azúcares por la salsa de cajeta.
+PAVLOVA,postre,baja,10,ok,s,,,"Base de merengue y chocolate blanco, ambos muy altos en azúcar."
+SORBETES Y HELADOS,postre,baja,20,ok,s,,,Se supone: alto contenido de azúcares simples.
+SPARKLING CHIVAS,bebida,baja,20,ok,s,s,,"Contiene jarabe de manzanilla dulce, elevando la carga de azúcares."
+SYLVESTRE,bebida,media,55,ok,s,s,,Coctel destilado sin jarabes evidentes; moderar alcohol para control de glucosa.
+SPATLESE EXQUISIT 2018,bebida,baja,18,ok,s,,,Vino Spätlese de postre con azúcares naturales concentrados.
+1881,bebida,media,65,ok,s,s,,"Bebida sin jarabes añadidos evidentes, con pepino fresco y limón."
+SUNDAE - chocolate,postre,baja,8,ok,s,,,"Extremadamente alto en azúcares simples, salsas dulces y toppings refinados."
+MADAME TREPOF,bebida,media,65,ok,s,s,,"Sin jarabes azucarados listados, preparado con hierbas e ingredientes frescos."
+SUNDAE - fresa,postre,baja,8,ok,s,,,"Extremadamente alto en azúcares simples, salsas dulces y toppings refinados."
+SUNDAE - vainilla,postre,baja,8,ok,s,,,"Extremadamente alto en azúcares simples, salsas dulces y toppings refinados."
+TARTA DE ALMENDRA,postre,baja,25,ok,s,,,"Base de almendra favorable, pero típicamente contiene azúcares añadidos considerables."
+TERRAZAS DE LOS ANDES LATE HARVEST PETIT MANSENG,bebida,baja,15,ok,s,s,,Cosecha tardía con alta concentración de azúcar residual.
+THERESE,bebida,baja,25,ok,s,,,El licor de flor de saúco y la cerveza aportan azúcares.
+TRILOGÍA DE ALFAJORES,postre,baja,10,ok,s,,,Masa de harina refinada y relleno con alto contenido de azúcar.
