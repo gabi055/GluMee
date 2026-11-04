@@ -1,0 +1,322 @@
+{
+	"info": {
+		"_postman_id": "6783fd29-6f56-41b8-bb23-bac9d475230a",
+		"name": "GluMee API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50729970"
+	},
+	"item": [
+		{
+			"name": "00 Login (token)",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"   pm.test(\"Login correcto\", () => pm.response.to.have.status(200));",
+							"   pm.environment.set(\"token\", pm.response.json().idToken);"
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "   {\r\n     \"email\": \"{{email}}\",\r\n     \"password\": \"{{password}}\",\r\n     \"returnSecureToken\": true\r\n   }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key={{firebase_api_key}}",
+					"protocol": "https",
+					"host": [
+						"identitytoolkit",
+						"googleapis",
+						"com"
+					],
+					"path": [
+						"v1",
+						"accounts:signInWithPassword"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "{{firebase_api_key}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "01 Salud",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"200\", () => pm.response.to.have.status(200));"
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/salud",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"salud"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "02 Perfil sin token",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"401\", () => pm.response.to.have.status(401));"
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/perfil",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"perfil"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "03 Perfil GET",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"200\", () => pm.response.to.have.status(200));"
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/perfil",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"perfil"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "04 Perfil PUT válido",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"200\", () => pm.response.to.have.status(200));"
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"apodo\":\"Gabi\",\"tipo_condicion\":\"tipo_2\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/perfil",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"perfil"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "05 Perfil PUT tipo inválido",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"422\", () => pm.response.to.have.status(422));"
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"apodo\":\"Gabi\",\"tipo_condicion\":\"otra\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/perfil",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"perfil"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "06 Perfil PUT apodo vacío",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"422\", () => pm.response.to.have.status(422));"
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"apodo\":\"\",\"tipo_condicion\":\"tipo_2\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/perfil",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"perfil"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "{{token}}",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
