@@ -1,6 +1,6 @@
-from fastapi import APIRouter, Depends, FastAPI
+from fastapi import APIRouter, FastAPI
 
-from app.auth import get_uid
+from app.perfil import router as perfil_router
 
 app = FastAPI(title="GluMee API")
 api = APIRouter(prefix="/api/v1")
@@ -10,11 +10,5 @@ api = APIRouter(prefix="/api/v1")
 def salud():
     return {"estado": "ok"}
 
-
-@api.get("/yo")
-def yo(uid: str = Depends(get_uid)):
-    """Endpoint temporal para probar la verificación de token."""
-    return {"uid": uid}
-
-
+api.include_router(perfil_router)
 app.include_router(api)
