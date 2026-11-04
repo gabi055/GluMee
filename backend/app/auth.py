@@ -1,15 +1,11 @@
-import os
-import firebase_admin
-from firebase_admin import auth, credentials
+
+from firebase_admin import auth
 from fastapi import Depends, HTTPException
 from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 
-if not firebase_admin._apps:
-    cred = credentials.Certificate(os.environ["FIREBASE_CREDENTIALS"])
-    firebase_admin.initialize_app(cred)
+import app.firebase
 
 bearer = HTTPBearer(auto_error=False)
-
 
 def get_uid(creds: HTTPAuthorizationCredentials = Depends(bearer)) -> str:
     """Verifica el token de Firebase y devuelve el uid del usuario."""
